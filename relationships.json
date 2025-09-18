@@ -1,0 +1,96 @@
+[
+  { "id": 1, "from": "ID0000010", "to": "ID0000022", "type": "ex_partner" },
+  { "id": 2, "from": "ID0000010", "to": "ID0000015", "type": "ex_partner" },
+  { "id": 3, "from": "ID0000010", "to": "ID0000016", "type": "ex_partner" },
+
+  { "id": 4, "from": "ID0000018", "to": "ID0000010", "type": "child" },
+  { "id": 5, "from": "ID0000018", "to": "ID0000016", "type": "child" },
+  { "id": 6, "from": "ID0000012", "to": "ID0000010", "type": "child" },
+  { "id": 7, "from": "ID0000012", "to": "ID0000016", "type": "child" },
+
+  { "id": 8, "from": "ID0000018", "to": "ID0000022", "type": "child" },
+  { "id": 9, "from": "ID0000011", "to": "ID0000010", "type": "child" },
+  { "id": 10, "from": "ID0000011", "to": "ID0000022", "type": "child" },
+  { "id": 11, "from": "ID0000014", "to": "ID0000010", "type": "child" },
+  { "id": 12, "from": "ID0000014", "to": "ID0000022", "type": "child" },
+  { "id": 13, "from": "ID0000013", "to": "ID0000010", "type": "child" },
+  { "id": 14, "from": "ID0000013", "to": "ID0000022", "type": "child" },
+
+  { "id": 15, "from": "ID0000021", "to": "ID0000010", "type": "child" },
+  { "id": 16, "from": "ID0000021", "to": "ID0000015", "type": "child" },
+  { "id": 17, "from": "ID0000020", "to": "ID0000010", "type": "child" },
+  { "id": 18, "from": "ID0000020", "to": "ID0000015", "type": "child" },
+  { "id": 19, "from": "ID0000019", "to": "ID0000010", "type": "child" },
+  { "id": 20, "from": "ID0000019", "to": "ID0000015", "type": "child" },
+
+  { "id": 21, "from": "ID0000015", "to": "ID0000010", "type": "hatred" },
+  { "id": 22, "from": "ID0000022", "to": "ID0000010", "type": "hatred" },
+  { "id": 23, "from": "ID0000016", "to": "ID0000010", "type": "hatred" },
+
+  { "id": 24, "from": "ID0000021", "to": "ID0000002", "type": "friend" },
+  { "id": 25, "from": "ID0000001", "to": "ID0000007", "type": "mentor" },
+  { "id": 26, "from": "ID0000007", "to": "ID0000001", "type": "protege" },
+  { "id": 27, "from": "ID0000002", "to": "ID0000009", "type": "friend" },
+
+  { "id": 28, "from": "ID0000011", "to": "ID0000012", "type": "half_sibling" },
+  { "id": 29, "from": "ID0000011", "to": "ID0000013", "type": "half_sibling" },
+  { "id": 30, "from": "ID0000011", "to": "ID0000014", "type": "half_sibling" },
+  { "id": 31, "from": "ID0000011", "to": "ID0000017", "type": "half_sibling" },
+  { "id": 32, "from": "ID0000011", "to": "ID0000018", "type": "half_sibling" },
+  { "id": 33, "from": "ID0000011", "to": "ID0000019", "type": "half_sibling" },
+  { "id": 34, "from": "ID0000011", "to": "ID0000020", "type": "half_sibling" },
+  { "id": 35, "from": "ID0000011", "to": "ID0000021", "type": "half_sibling" },
+
+  { "id": 36, "from": "ID0000012", "to": "ID0000013", "type": "half_sibling" },
+  { "id": 37, "from": "ID0000012", "to": "ID0000014", "type": "half_sibling" },
+  { "id": 38, "from": "ID0000012", "to": "ID0000017", "type": "half_sibling" },
+  { "id": 39, "from": "ID0000012", "to": "ID0000018", "type": "half_sibling" },
+  { "id": 40, "from": "ID0000012", "to": "ID0000019", "type": "half_sibling" },
+  { "id": 41, "from": "ID0000012", "to": "ID0000020", "type": "half_sibling" },
+  { "id": 42, "from": "ID0000012", "to": "ID0000021", "type": "half_sibling" },
+
+  { "id": 43, "from": "ID0000013", "to": "ID0000014", "type": "half_sibling" },
+  { "id": 44, "from": "ID0000013", "to": "ID0000017", "type": "half_sibling" },
+  { "id": 45, "from": "ID0000013", "to": "ID0000018", "type": "half_sibling" },
+  { "id": 46, "from": "ID0000013", "to": "ID0000019", "type": "half_sibling" },
+  { "id": 47, "from": "ID0000013", "to": "ID0000020", "type": "half_sibling" },
+  { "id": 48, "from": "ID0000013", "to": "ID0000021", "type": "half_sibling" },
+
+  { "id": 49, "from": "ID0000014", "to": "ID0000017", "type": "half_sibling" },
+  { "id": 50, "from": "ID0000014", "to": "ID0000018", "type": "half_sibling" },
+  { "id": 51, "from": "ID0000014", "to": "ID0000019", "type": "half_sibling" },
+  { "id": 52, "from": "ID0000014", "to": "ID0000020", "type": "half_sibling" },
+  { "id": 53, "from": "ID0000014", "to": "ID0000021", "type": "half_sibling" },
+
+  { "id": 54, "from": "ID0000017", "to": "ID0000018", "type": "half_sibling" },
+  { "id": 55, "from": "ID0000017", "to": "ID0000019", "type": "half_sibling" },
+  { "id": 56, "from": "ID0000017", "to": "ID0000020", "type": "half_sibling" },
+  { "id": 57, "from": "ID0000017", "to": "ID0000021", "type": "half_sibling" },
+
+  { "id": 58, "from": "ID0000018", "to": "ID0000019", "type": "half_sibling" },
+  { "id": 59, "from": "ID0000018", "to": "ID0000020", "type": "half_sibling" },
+  { "id": 60, "from": "ID0000018", "to": "ID0000021", "type": "half_sibling" },
+
+  { "id": 61, "from": "ID0000019", "to": "ID0000020", "type": "half_sibling" },
+  { "id": 62, "from": "ID0000019", "to": "ID0000021", "type": "half_sibling" },
+
+  { "id": 63, "from": "ID0000020", "to": "ID0000021", "type": "half_sibling" },
+
+  { "id": 64, "from": "ID0000023", "to": "ID0000003", "type": "friend" },
+
+  { "id": 65, "from": "ID0000026", "to": "ID0000027", "type": "hatred" },
+
+  { "id": 66, "from": "ID0000029", "to": "ID0000030", "type": "ex_partner" },
+  { "id": 67, "from": "ID0000029", "to": "ID0000030", "type": "dislike" },
+
+  { "id": 68, "from": "ID0000032", "to": "ID0000033", "type": "best friend" },
+  { "id": 69, "from": "ID0000032", "to": "ID0000034", "type": "strong friend" },
+  { "id": 70, "from": "ID0000033", "to": "ID0000034", "type": "strong friend" },
+  { "id": 71, "from": "ID0000035", "to": "ID0000034", "type": "strong friend" },
+  { "id": 72, "from": "ID0000035", "to": "ID0000033", "type": "strong friend" },
+  { "id": 73, "from": "ID0000035", "to": "ID0000032", "type": "strong friend" },
+
+  { "id": 74, "from": "ID0000037", "to": "ID0000038", "type": "best friend" },
+
+  { "id": 75, "from": "ID0000048", "to": "ID0000049", "type": "strong friend" }
+]
