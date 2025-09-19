@@ -122,7 +122,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -304,7 +305,8 @@
     "Hungary": 85.00,
     "Slovakia": 85.00,
     "Slovenia": 85.00,
-    "Croatia": 85.00
+    "Croatia": 85.00,
+    "Ukraine": 85.00
   }
 }
 },
@@ -431,7 +433,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": true,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -613,7 +616,8 @@
     "Hungary": 56.00,
     "Slovakia": 56.00,
     "Slovenia": 56.00,
-    "Croatia": 56.00
+    "Croatia": 56.00,
+    "Ukraine": 56.00
   }
 }
 },
@@ -740,7 +744,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": false,
@@ -922,7 +927,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -1049,7 +1055,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -1231,7 +1238,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -1358,7 +1366,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -1540,7 +1549,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -1667,7 +1677,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": true
+    "Russian": true,
+    "Ukrainian": true
   },
   "availability": {
     "United States": false,
@@ -1849,7 +1860,8 @@
     "Hungary": 71.00,
     "Slovakia": 71.00,
     "Slovenia": 71.00,
-    "Croatia": 71.00
+    "Croatia": 71.00,
+    "Ukraine": 71.00
   }
 }
 },
@@ -1976,7 +1988,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -2158,7 +2171,8 @@
     "Hungary": 86.00,
     "Slovakia": 86.00,
     "Slovenia": 86.00,
-    "Croatia": 86.00
+    "Croatia": 86.00,
+    "Ukraine": 86.00
   }
 }
 },
@@ -2285,7 +2299,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -2467,7 +2482,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -2594,7 +2610,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -2776,7 +2793,8 @@
     "Hungary": 60.00,
     "Slovakia": 60.00,
     "Slovenia": 60.00,
-    "Croatia": 60.00
+    "Croatia": 60.00,
+    "Ukraine": 60.00
   }
 }
 },
@@ -2903,7 +2921,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": true,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -3085,7 +3104,8 @@
     "Hungary": 50.00,
     "Slovakia": 50.00,
     "Slovenia": 50.00,
-    "Croatia": 50.00
+    "Croatia": 50.00,
+    "Ukraine": 50.00
   }
 }
 },
@@ -3212,7 +3232,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -3394,7 +3415,8 @@
     "Hungary": 40.00,
     "Slovakia": 40.00,
     "Slovenia": 40.00,
-    "Croatia": 40.00
+    "Croatia": 40.00,
+    "Ukraine": 40.00
   }
 }
 },
@@ -3521,7 +3543,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": true,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -3703,7 +3726,8 @@
     "Hungary": 30.00,
     "Slovakia": 30.00,
     "Slovenia": 30.00,
-    "Croatia": 30.00
+    "Croatia": 30.00,
+    "Ukraine": 30.00
   }
 }
 },
@@ -3830,7 +3854,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -4012,7 +4037,8 @@
     "Hungary": 40.00,
     "Slovakia": 40.00,
     "Slovenia": 40.00,
-    "Croatia": 40.00
+    "Croatia": 40.00,
+    "Ukraine": 40.00
   }
 }
 },
@@ -4139,7 +4165,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": true
   },
   "availability": {
     "United States": true,
@@ -4321,7 +4348,8 @@
     "Hungary": 40.00,
     "Slovakia": 40.00,
     "Slovenia": 40.00,
-    "Croatia": 40.00
+    "Croatia": 40.00,
+    "Ukraine": 40.00
   }
 }
 },
@@ -4448,7 +4476,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -4630,7 +4659,8 @@
     "Hungary": 48.00,
     "Slovakia": 48.00,
     "Slovenia": 48.00,
-    "Croatia": 48.00
+    "Croatia": 48.00,
+    "Ukraine": 48.00
   }
 }
 },
@@ -4757,7 +4787,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": true,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -4939,7 +4970,8 @@
     "Hungary": 50.00,
     "Slovakia": 50.00,
     "Slovenia": 50.00,
-    "Croatia": 50.00
+    "Croatia": 50.00,
+    "Ukraine": 50.00
   }
 }
 },
@@ -5066,7 +5098,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": true,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -5248,7 +5281,8 @@
     "Hungary": 14.00,
     "Slovakia": 14.00,
     "Slovenia": 14.00,
-    "Croatia": 14.00
+    "Croatia": 14.00,
+    "Ukraine": 14.00
   }
 }
 },
@@ -5375,7 +5409,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": true,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -5557,7 +5592,8 @@
     "Hungary": 50.00,
     "Slovakia": 50.00,
     "Slovenia": 50.00,
-    "Croatia": 50.00
+    "Croatia": 50.00,
+    "Ukraine": 50.00
   }
 }
 },
@@ -5684,7 +5720,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -5866,7 +5903,8 @@
     "Hungary": 20.00,
     "Slovakia": 20.00,
     "Slovenia": 20.00,
-    "Croatia": 20.00
+    "Croatia": 20.00,
+    "Ukraine": 20.00
   }
 }
 },
@@ -5993,7 +6031,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -6175,7 +6214,8 @@
     "Hungary": 27.00,
     "Slovakia": 27.00,
     "Slovenia": 27.00,
-    "Croatia": 27.00
+    "Croatia": 27.00,
+    "Ukraine": 27.00
   }
 }
 },
@@ -6302,7 +6342,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -6484,7 +6525,8 @@
     "Hungary": 60.00,
     "Slovakia": 60.00,
     "Slovenia": 60.00,
-    "Croatia": 60.00
+    "Croatia": 60.00,
+    "Ukraine": 60.00
   }
 }
 },
@@ -6611,7 +6653,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": true,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -6793,7 +6836,8 @@
     "Hungary": 60.00,
     "Slovakia": 60.00,
     "Slovenia": 60.00,
-    "Croatia": 60.00
+    "Croatia": 60.00,
+    "Ukraine": 60.00
   }
 }
 },
@@ -6920,7 +6964,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -7102,7 +7147,8 @@
     "Hungary": 10.00,
     "Slovakia": 10.00,
     "Slovenia": 10.00,
-    "Croatia": 10.00
+    "Croatia": 10.00,
+    "Ukraine": 10.00
   }
 }
 },
@@ -7229,7 +7275,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": false,
@@ -7411,7 +7458,8 @@
     "Hungary": 15.00,
     "Slovakia": 15.00,
     "Slovenia": 15.00,
-    "Croatia": 15.00
+    "Croatia": 15.00,
+    "Ukraine": 15.00
   }
 }
 },
@@ -7538,7 +7586,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -7720,7 +7769,8 @@
     "Hungary": 5.00,
     "Slovakia": 5.00,
     "Slovenia": 5.00,
-    "Croatia": 5.00
+    "Croatia": 5.00,
+    "Ukraine": 5.00
   }
 }
 },
@@ -7847,7 +7897,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": false,
@@ -8029,7 +8080,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -8156,7 +8208,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -8338,7 +8391,8 @@
     "Hungary": 80.00,
     "Slovakia": 80.00,
     "Slovenia": 80.00,
-    "Croatia": 80.00
+    "Croatia": 80.00,
+    "Ukraine": 80.00
   }
 }
 },
@@ -8465,7 +8519,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": false,
@@ -8647,7 +8702,8 @@
     "Hungary": 10.00,
     "Slovakia": 10.00,
     "Slovenia": 10.00,
-    "Croatia": 10.00
+    "Croatia": 10.00,
+    "Ukraine": 10.00
   }
 }
 },
@@ -8774,7 +8830,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -8956,7 +9013,8 @@
     "Hungary": 55.00,
     "Slovakia": 55.00,
     "Slovenia": 55.00,
-    "Croatia": 55.00
+    "Croatia": 55.00,
+    "Ukraine": 55.00
   }
 }
 },
@@ -9083,7 +9141,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -9265,7 +9324,8 @@
     "Hungary": 65.00,
     "Slovakia": 65.00,
     "Slovenia": 65.00,
-    "Croatia": 65.00
+    "Croatia": 65.00,
+    "Ukraine": 65.00
   }
 }
 },
@@ -9392,7 +9452,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -9574,7 +9635,8 @@
     "Hungary": 66.00,
     "Slovakia": 66.00,
     "Slovenia": 66.00,
-    "Croatia": 66.00
+    "Croatia": 66.00,
+    "Ukraine": 66.00
   }
 }
 },
@@ -9701,7 +9763,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -9883,7 +9946,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -10010,7 +10074,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -10192,7 +10257,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -10319,7 +10385,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -10501,7 +10568,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -10628,7 +10696,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -10810,7 +10879,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -10937,7 +11007,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -11119,7 +11190,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -11246,7 +11318,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": false,
@@ -11428,7 +11501,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -11555,7 +11629,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -11737,7 +11812,8 @@
     "Hungary": 45.00,
     "Slovakia": 45.00,
     "Slovenia": 45.00,
-    "Croatia": 45.00
+    "Croatia": 45.00,
+    "Ukraine": 45.00
   }
 }
 },
@@ -11864,7 +11940,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": false,
@@ -12046,7 +12123,8 @@
     "Hungary": 40.00,
     "Slovakia": 40.00,
     "Slovenia": 40.00,
-    "Croatia": 40.00
+    "Croatia": 40.00,
+    "Ukraine": 40.00
   }
 }
 },
@@ -12173,7 +12251,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -12355,7 +12434,8 @@
     "Hungary": 20.00,
     "Slovakia": 20.00,
     "Slovenia": 20.00,
-    "Croatia": 20.00
+    "Croatia": 20.00,
+    "Ukraine": 20.00
   }
 }
 },
@@ -12482,7 +12562,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -12664,7 +12745,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -12791,7 +12873,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -12973,7 +13056,8 @@
     "Hungary": 50.00,
     "Slovakia": 50.00,
     "Slovenia": 50.00,
-    "Croatia": 0.00
+    "Croatia": 50.00,
+    "Ukraine": 50.00
   }
 }
 },
@@ -13100,7 +13184,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -13282,7 +13367,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -13409,7 +13495,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": false,
@@ -13591,7 +13678,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -13718,7 +13806,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -13900,7 +13989,8 @@
     "Hungary": 40.00,
     "Slovakia": 40.00,
     "Slovenia": 40.00,
-    "Croatia": 40.00
+    "Croatia": 40.00,
+    "Ukraine": 40.00
   }
 }
 },
@@ -14027,7 +14117,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -14209,7 +14300,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -14336,7 +14428,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -14518,7 +14611,8 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
   }
 }
 },
@@ -14645,7 +14739,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -14827,7 +14922,8 @@
     "Hungary": 85.00,
     "Slovakia": 85.00,
     "Slovenia": 85.00,
-    "Croatia": 85.00
+    "Croatia": 85.00,
+    "Ukraine": 85.00
   }
 }
 },
@@ -14954,7 +15050,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -15136,7 +15233,8 @@
     "Hungary": 70.00,
     "Slovakia": 70.00,
     "Slovenia": 70.00,
-    "Croatia": 70.00
+    "Croatia": 70.00,
+    "Ukraine": 70.00
   }
 }
 },
@@ -15263,7 +15361,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": true
+    "Russian": true,
+    "Ukrainian": true
   },
   "availability": {
     "United States": true,
@@ -15445,7 +15544,8 @@
     "Hungary": 75.00,
     "Slovakia": 75.00,
     "Slovenia": 75.00,
-    "Croatia": 75.00
+    "Croatia": 75.00,
+    "Ukraine": 75.00
   }
 }
 },
@@ -15572,7 +15672,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -15594,7 +15695,7 @@
     "Oceania": false,
     "China": false,
     "Russia": false
-  },
+    },
     "preferredRoles": {
     "actor": "always",
     "director": "never",
@@ -15754,7 +15855,8 @@
     "Hungary": 40.00,
     "Slovakia":40.00,
     "Slovenia": 40.00,
-    "Croatia": 40.00
+    "Croatia": 40.00,
+    "Ukraine": 40.00
   }
 }
 },
@@ -15881,7 +15983,8 @@
     "Zulu": false,
     "Somali": false,
     "Mandarin": false,
-    "Russian": false
+    "Russian": false,
+    "Ukrainian": false
   },
   "availability": {
     "United States": true,
@@ -16063,7 +16166,4051 @@
     "Hungary": 0.00,
     "Slovakia": 0.00,
     "Slovenia": 0.00,
-    "Croatia": 0.00
+    "Croatia": 0.00,
+    "Ukraine": 0.00
+  }
+}
+},
+{
+  "id": "ID0000053",
+  "fullName": "Klara Fischer",
+  "shortName": "K. Fischer",
+  "biography": "",
+  "gender": "Female",
+  "race": "White / European Descent",
+  "ethnicity": "European American",
+  "residence": "Pacific (West Coast)",
+  "pronouns": "she/her/hers",
+  "attractedTo": "Men & Women",
+  "debut": "03/29/2012",
+  "birthdate": "01/17/1996",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "Dating",
+  "portraitFile": "/pics/talent/PIC_Klara_Fischer.png",
+  "canGetPregnant": true,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 81.39,
+    "versatility": 79.33,
+    "overallActing": 84.18,
+    "intimidation": 59.00,
+    "dramaticActing": 85.00,
+    "romanticChemistry": 87.00,
+    "comedyTiming": 73.03,
+    "athleticism": 68.18,
+    "nonVerbalActing": 75.00,
+    "improvAbility": 40.18,
+    "combatSkills": 69.77,
+    "methodActing": 30.00,
+    "voiceActing": 79.56
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 59.00,
+    "dialogueWriting": 53.00,
+    "characterDevelopment": 60.00,
+    "pacing": 33.00,
+    "genreMastery": {
+      "horror": 40.00,
+      "action": 11.00,
+      "comedy": 44.00,
+      "drama": 58.00,
+      "romance": 61.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 19.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 20.00,
+    "makeupApplication": 60.00,
+    "fxMakeup": 8.00,
+    "continuityAwareness": 11.00,
+    "speedEfficiency": 12.00,
+    "cleanliness": 55.00
+  },
+  "producingSkills": {
+    "projectManagement": 19.00,
+    "crisisManagement": 68.00,
+    "industryKnowledge": 69.00,
+    "financialOversight": 33.00
+  },
+  "metaStats": {
+    "reputation": 81.00,
+    "potential": 82.00,
+    "workEthic": 83.00
+  },
+  "behaviorSliders": {
+    "professionalism": 79.00,
+    "teamOrientation": 82.00,
+    "motivation": 44.00,
+    "riskAppetite": 65.00,
+    "maintenanceNeeds": 77.11,
+    "humility": 79.00,
+    "sociability": 78.06
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": false,
+    "German": true,
+    "French": true,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": true,
+    "Canada": true,
+    "Mexico": true,
+    "United Kingdom": true,
+    "Ireland": true,
+    "Central Europe": true,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": true,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": true,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "rare",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "rare"
+  },
+  "popularity": {
+  "United States": 85.00,
+  "Canada": 75.00,
+  "Mexico": 70.00,
+  "United Kingdom": 75.00,
+  "Ireland": 75.00,
+  "Central Europe": 75.00,
+  "Eastern Europe": 70.00,
+  "South America": 70.00,
+  "Japan": 75.00,
+  "Middle East": 70.00,
+  "Australia": 75.00,
+  "India & South Asia": 70.00,
+  "Africa": 70.00,
+  "Southeast Asia": 70.00,
+  "South Korea": 70.00,
+  "Scandinavia": 70.00,
+  "Oceania": 70.00,
+  "China": 70.00,
+  "Russia": 70.00,
+  "regions": {
+    "New England": 85.00,
+    "Mid-Atlantic": 85.00,
+    "Great Lakes": 85.00,
+    "Midwest": 85.00,
+    "South Atlantic": 85.00,
+    "East South Central": 85.00,
+    "West South Central": 85.00,
+    "Mountain States": 85.00,
+    "Pacific (West Coast)": 85.00,
+    "Alaska": 85.00,
+    "Hawaii": 85.00,
+    "Puerto Rico": 85.00,
+
+    "The Maritimes": 75.00,
+    "Manitoba": 75.00,
+    "British Columbia": 75.00,
+    "Saskatchewan": 75.00,
+    "Quebec": 75.00,
+    "Ontario": 75.00,
+    "Alberta": 75.00,
+
+    "Northern Mexico": 70.00,
+    "South Eastern Mexico": 70.00,
+    "West Central Mexico": 70.00,
+
+    "Scotland": 75.00,
+    "Central England": 75.00,
+    "Northern England": 75.00,
+    "Southern England": 75.00,
+    "Northern Ireland": 75.00,
+
+    "Leinster": 75.00,
+    "Munster": 75.00,
+    "Connacht": 75.00,
+    "Ulster": 75.00,
+
+    "Tohoku": 75.00,
+    "Shikoku": 75.00,
+    "Kyushu": 75.00,
+    "Kinki": 75.00,
+    "Hokkaido": 75.00,
+    "Chugoku": 75.00,
+    "Chubu": 75.00,
+
+    "Seoul Capital Area": 70.00,
+    "Chungcheong Region": 70.00,
+    "Honam Region": 70.00,
+    "Yeongnam Region": 70.00,
+    "Gangwon Region": 70.00,
+    "Jeju Island": 70.00,
+
+    "The Andean Region": 70.00,
+    "Southern Cone": 70.00,
+    "Amazon Basin": 70.00,
+    "Eastern Lowlands": 70.00,
+    "The Guianas": 70.00,
+    "Pampas & Gran Chaco": 70.00,
+
+    "New South Wales": 75.00,
+    "Victoria": 75.00,
+    "Queensland": 75.00,
+    "South Australia": 75.00,
+    "Western Australia": 75.00,
+    "New Zealand": 75.00,
+    "Tasmania": 75.00,
+    "Northern Territory": 75.00,
+    "Australian Capital Territory": 75.00,
+    "North Island": 75.00,
+    "South Island": 75.00,
+
+    "Germany": 75.00,
+    "France": 75.00,
+    "Iberia": 75.00,
+    "Italy": 75.00,
+
+    "Gulf States": 70.00,
+    "Levant": 70.00,
+    "Egypt": 70.00,
+    "Iran": 70.00,
+    "Iraq": 70.00,
+    "Turkey": 70.00,
+    "Israel": 70.00,
+
+    "North India": 70.00,
+    "South India": 70.00,
+    "West India": 70.00,
+    "East & Northeast India": 70.00,
+    "Nepal": 70.00,
+    "Sri Lanka": 70.00,
+    "Pakistan": 70.00,
+    "Bangladesh": 70.00,
+
+    "North Africa": 70.00,
+    "West Africa": 70.00,
+    "East Africa": 70.00,
+    "Central Africa": 70.00,
+    "Southern Africa": 70.00,
+
+    "Indonesia": 70.00,
+    "Malaysia": 70.00,
+    "Philippines": 70.00,
+    "Thailand": 70.00,
+    "Vietnam": 70.00,
+    "Singapore": 70.00,
+
+    "Sweden": 70.00,
+    "Norway": 70.00,
+    "Denmark": 70.00,
+    "Finland": 70.00,
+
+    "Polynesia": 70.00,
+    "Micronesia": 70.00,
+    "Melanesia": 70.00,
+
+    "Mainland China": 70.00,
+    "Hong Kong": 70.00,
+    "Taiwan": 70.00,
+
+    "Moscow Region": 70.00,
+    "Northwest Russia": 70.00,
+    "Siberia & Far East": 70.00,
+    "Southern Russia & Caucasus": 70.00,
+
+    "Austria": 70.00,
+    "Switzerland": 70.00,
+    "Poland": 70.00,
+    "Czech Republic": 70.00,
+    "Hungary": 70.00,
+    "Slovakia": 70.00,
+    "Slovenia": 70.00,
+    "Croatia": 70.00,
+    "Ukraine": 70.00
+  }
+}
+},
+{
+  "id": "ID0000055",
+  "fullName": "Liberty Ventura",
+  "shortName": "L. Ventura",
+  "biography": "",
+  "gender": "Female",
+  "race": "White / European Descent",
+  "ethnicity": "European American",
+  "residence": "Mid-Atlantic",
+  "pronouns": "she/her/hers",
+  "attractedTo": "Men",
+  "debut": "04/10/2006",
+  "birthdate": "07/04/1995",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Liberty_Ventura.png",
+  "canGetPregnant": true,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 85.13,
+    "versatility": 61.22,
+    "overallActing": 70.00,
+    "intimidation": 11.00,
+    "dramaticActing": 69.00,
+    "romanticChemistry": 81.00,
+    "comedyTiming": 24.00,
+    "athleticism": 59.00,
+    "nonVerbalActing": 64.44,
+    "improvAbility": 41.75,
+    "combatSkills": 12.00,
+    "methodActing": 14.00,
+    "voiceActing": 88.00
+  },
+  "directingSkills": {
+    "vision": 73.00,
+    "storytelling": 69.00,
+    "actorDirection": 45.00,
+    "technicalKnowledge": 22.00,
+    "problemSolving": 60.00,
+    "leadership": 64.00
+  },
+  "writingSkills": {
+    "plotConstruction": 44.00,
+    "dialogueWriting": 57.00,
+    "characterDevelopment": 60.00,
+    "pacing": 50.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 34.00,
+      "romance": 50.00,
+      "war": 0.00,
+      "historical": 44.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 57.00,
+    "makeupApplication": 56.00,
+    "fxMakeup": 3.00,
+    "continuityAwareness": 12.00,
+    "speedEfficiency": 11.00,
+    "cleanliness": 56.00
+  },
+  "producingSkills": {
+    "projectManagement": 41.00,
+    "crisisManagement": 9.00,
+    "industryKnowledge": 69.00,
+    "financialOversight": 66.00
+  },
+  "metaStats": {
+    "reputation": 34.00,
+    "potential": 71.66,
+    "workEthic": 56.00
+  },
+  "behaviorSliders": {
+    "professionalism": 31.00,
+    "teamOrientation": 9.00,
+    "motivation": 5.06,
+    "riskAppetite": 14.00,
+    "maintenanceNeeds": 16.00,
+    "humility": 18.00,
+    "sociability": 89.00
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": true,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "rare",
+    "writer": "rare",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "rare"
+  },
+  "popularity": {
+  "United States": 86.00,
+  "Canada": 75.00,
+  "Mexico": 70.00,
+  "United Kingdom": 70.00,
+  "Ireland": 70.00,
+  "Central Europe": 70.00,
+  "Eastern Europe": 70.00,
+  "South America": 70.00,
+  "Japan": 70.00,
+  "Middle East": 70.00,
+  "Australia": 70.00,
+  "India & South Asia": 70.00,
+  "Africa": 70.00,
+  "Southeast Asia": 70.00,
+  "South Korea": 70.00,
+  "Scandinavia": 70.00,
+  "Oceania": 70.00,
+  "China": 70.00,
+  "Russia": 70.00,
+  "regions": {
+    "New England": 86.00,
+    "Mid-Atlantic": 86.00,
+    "Great Lakes": 86.00,
+    "Midwest": 86.00,
+    "South Atlantic": 86.00,
+    "East South Central": 86.00,
+    "West South Central": 86.00,
+    "Mountain States": 86.00,
+    "Pacific (West Coast)": 86.00,
+    "Alaska": 86.00,
+    "Hawaii": 86.00,
+    "Puerto Rico": 86.00,
+
+    "The Maritimes": 75.00,
+    "Manitoba": 75.00,
+    "British Columbia": 75.00,
+    "Saskatchewan": 75.00,
+    "Quebec": 75.00,
+    "Ontario": 75.00,
+    "Alberta": 75.00,
+
+    "Northern Mexico": 70.00,
+    "South Eastern Mexico": 70.00,
+    "West Central Mexico": 70.00,
+
+    "Scotland": 70.00,
+    "Central England": 70.00,
+    "Northern England": 70.00,
+    "Southern England": 70.00,
+    "Northern Ireland": 70.00,
+
+    "Leinster": 70.00,
+    "Munster": 70.00,
+    "Connacht": 70.00,
+    "Ulster": 70.00,
+
+    "Tohoku": 70.00,
+    "Shikoku": 70.00,
+    "Kyushu": 70.00,
+    "Kinki": 70.00,
+    "Hokkaido": 70.00,
+    "Chugoku": 70.00,
+    "Chubu": 70.00,
+
+    "Seoul Capital Area": 70.00,
+    "Chungcheong Region": 70.00,
+    "Honam Region": 70.00,
+    "Yeongnam Region": 70.00,
+    "Gangwon Region": 70.00,
+    "Jeju Island": 70.00,
+
+    "The Andean Region": 70.00,
+    "Southern Cone": 70.00,
+    "Amazon Basin": 70.00,
+    "Eastern Lowlands": 70.00,
+    "The Guianas": 70.00,
+    "Pampas & Gran Chaco": 70.00,
+
+    "New South Wales": 70.00,
+    "Victoria": 70.00,
+    "Queensland": 70.00,
+    "South Australia": 70.00,
+    "Western Australia": 70.00,
+    "New Zealand": 70.00,
+    "Tasmania": 70.00,
+    "Northern Territory": 70.00,
+    "Australian Capital Territory": 70.00,
+    "North Island": 70.00,
+    "South Island": 70.00,
+
+    "Germany": 70.00,
+    "France": 70.00,
+    "Iberia": 70.00,
+    "Italy": 70.00,
+
+    "Gulf States": 70.00,
+    "Levant": 70.00,
+    "Egypt": 70.00,
+    "Iran": 70.00,
+    "Iraq": 70.00,
+    "Turkey": 70.00,
+    "Israel": 70.00,
+
+    "North India": 70.00,
+    "South India": 70.00,
+    "West India": 70.00,
+    "East & Northeast India": 70.00,
+    "Nepal": 70.00,
+    "Sri Lanka": 70.00,
+    "Pakistan": 70.00,
+    "Bangladesh": 70.00,
+
+    "North Africa": 70.00,
+    "West Africa": 70.00,
+    "East Africa": 70.00,
+    "Central Africa": 70.00,
+    "Southern Africa": 70.00,
+
+    "Indonesia": 70.00,
+    "Malaysia": 70.00,
+    "Philippines": 70.00,
+    "Thailand": 70.00,
+    "Vietnam": 70.00,
+    "Singapore": 70.00,
+
+    "Sweden": 70.00,
+    "Norway": 70.00,
+    "Denmark": 70.00,
+    "Finland": 70.00,
+
+    "Polynesia": 70.00,
+    "Micronesia": 70.00,
+    "Melanesia": 70.00,
+
+    "Mainland China": 70.00,
+    "Hong Kong": 70.00,
+    "Taiwan": 70.00,
+
+    "Moscow Region": 70.00,
+    "Northwest Russia": 70.00,
+    "Siberia & Far East": 70.00,
+    "Southern Russia & Caucasus": 70.00,
+
+    "Austria": 70.00,
+    "Switzerland": 70.00,
+    "Poland": 70.00,
+    "Czech Republic": 70.00,
+    "Hungary": 70.00,
+    "Slovakia": 70.00,
+    "Slovenia": 70.00,
+    "Croatia": 70.00,
+    "Ukraine": 70.00
+  }
+}
+},
+{
+  "id": "ID0000056",
+  "fullName": "Loretta Smiles",
+  "shortName": "L. Smiles",
+  "biography": "",
+  "gender": "Female",
+  "race": "White / European Descent",
+  "ethnicity": "European American",
+  "residence": "South Atlantic",
+  "pronouns": "she/her/hers",
+  "attractedTo": "Men & Women",
+  "debut": "07/30/2006",
+  "birthdate": "06/04/1989",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Loretta_Smiles.png",
+  "canGetPregnant": false,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 76.00,
+    "versatility": 23.00,
+    "overallActing": 59.00,
+    "intimidation": 43.00,
+    "dramaticActing": 46.00,
+    "romanticChemistry": 42.00,
+    "comedyTiming": 79.67,
+    "athleticism": 60.00,
+    "nonVerbalActing": 73.90,
+    "improvAbility": 70.00,
+    "combatSkills": 64.00,
+    "methodActing": 6.00,
+    "voiceActing": 65.00
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 0.00,
+    "crisisManagement": 0.00,
+    "industryKnowledge": 0.00,
+    "financialOversight": 0.00
+  },
+  "metaStats": {
+    "reputation": 85.00,
+    "potential": 65.07,
+    "workEthic": 80.00
+  },
+  "behaviorSliders": {
+    "professionalism": 81.00,
+    "teamOrientation": 80.00,
+    "motivation": 67.00,
+    "riskAppetite": 79.00,
+    "maintenanceNeeds": 83.00,
+    "humility": 60.00,
+    "sociability": 85.00
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": true,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": true,
+    "Canada": true,
+    "Mexico": true,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "never"
+  },
+  "popularity": {
+  "United States": 55.00,
+  "Canada": 40.00,
+  "Mexico": 40.00,
+  "United Kingdom": 30.00,
+  "Ireland": 30.00,
+  "Central Europe": 10.00,
+  "Eastern Europe": 10.00,
+  "South America": 10.00,
+  "Japan": 10.00,
+  "Middle East": 10.00,
+  "Australia": 10.00,
+  "India & South Asia": 10.00,
+  "Africa": 10.00,
+  "Southeast Asia": 10.00,
+  "South Korea": 10.00,
+  "Scandinavia": 10.00,
+  "Oceania": 10.00,
+  "China": 10.00,
+  "Russia": 10.00,
+  "regions": {
+    "New England": 55.00,
+    "Mid-Atlantic": 55.00,
+    "Great Lakes": 55.00,
+    "Midwest": 55.00,
+    "South Atlantic": 55.00,
+    "East South Central": 55.00,
+    "West South Central": 55.00,
+    "Mountain States": 55.00,
+    "Pacific (West Coast)": 55.00,
+    "Alaska": 55.00,
+    "Hawaii": 55.00,
+    "Puerto Rico": 55.00,
+
+    "The Maritimes": 40.00,
+    "Manitoba": 40.00,
+    "British Columbia": 40.00,
+    "Saskatchewan": 40.00,
+    "Quebec": 40.00,
+    "Ontario": 40.00,
+    "Alberta": 40.00,
+
+    "Northern Mexico": 40.00,
+    "South Eastern Mexico": 40.00,
+    "West Central Mexico": 40.00,
+
+    "Scotland": 30.00,
+    "Central England": 30.00,
+    "Northern England": 30.00,
+    "Southern England": 30.00,
+    "Northern Ireland": 30.00,
+
+    "Leinster": 30.00,
+    "Munster": 30.00,
+    "Connacht": 30.00,
+    "Ulster": 30.00,
+
+    "Tohoku": 10.00,
+    "Shikoku": 10.00,
+    "Kyushu": 10.00,
+    "Kinki": 10.00,
+    "Hokkaido": 10.00,
+    "Chugoku": 10.00,
+    "Chubu": 10.00,
+
+    "Seoul Capital Area": 10.00,
+    "Chungcheong Region": 10.00,
+    "Honam Region": 10.00,
+    "Yeongnam Region": 10.00,
+    "Gangwon Region": 10.00,
+    "Jeju Island": 10.00,
+
+    "The Andean Region": 10.00,
+    "Southern Cone": 10.00,
+    "Amazon Basin": 10.00,
+    "Eastern Lowlands": 10.00,
+    "The Guianas": 10.00,
+    "Pampas & Gran Chaco": 10.00,
+
+    "New South Wales": 10.00,
+    "Victoria": 10.00,
+    "Queensland": 10.00,
+    "South Australia": 10.00,
+    "Western Australia": 10.00,
+    "New Zealand": 10.00,
+    "Tasmania": 10.00,
+    "Northern Territory": 10.00,
+    "Australian Capital Territory": 10.00,
+    "North Island": 10.00,
+    "South Island": 10.00,
+
+    "Germany": 10.00,
+    "France": 10.00,
+    "Iberia": 10.00,
+    "Italy": 10.00,
+
+    "Gulf States": 10.00,
+    "Levant": 10.00,
+    "Egypt": 10.00,
+    "Iran": 10.00,
+    "Iraq": 10.00,
+    "Turkey": 10.00,
+    "Israel": 10.00,
+
+    "North India": 10.00,
+    "South India": 10.00,
+    "West India": 10.00,
+    "East & Northeast India": 10.00,
+    "Nepal": 10.00,
+    "Sri Lanka": 10.00,
+    "Pakistan": 10.00,
+    "Bangladesh": 10.00,
+
+    "North Africa": 10.00,
+    "West Africa": 10.00,
+    "East Africa": 10.00,
+    "Central Africa": 10.00,
+    "Southern Africa": 10.00,
+
+    "Indonesia": 10.00,
+    "Malaysia": 10.00,
+    "Philippines": 10.00,
+    "Thailand": 10.00,
+    "Vietnam": 10.00,
+    "Singapore": 10.00,
+
+    "Sweden": 10.00,
+    "Norway": 10.00,
+    "Denmark": 10.00,
+    "Finland": 10.00,
+
+    "Polynesia": 10.00,
+    "Micronesia": 10.00,
+    "Melanesia": 10.00,
+
+    "Mainland China": 10.00,
+    "Hong Kong": 10.00,
+    "Taiwan": 10.00,
+
+    "Moscow Region": 10.00,
+    "Northwest Russia": 10.00,
+    "Siberia & Far East": 10.00,
+    "Southern Russia & Caucasus": 10.00,
+
+    "Austria": 10.00,
+    "Switzerland": 10.00,
+    "Poland": 10.00,
+    "Czech Republic": 10.00,
+    "Hungary": 10.00,
+    "Slovakia": 10.00,
+    "Slovenia": 10.00,
+    "Croatia": 10.00,
+    "Ukraine": 10.00
+  }
+}
+},
+{
+  "id": "ID0000057",
+  "fullName": "Buster Horse",
+  "shortName": "B. Horse",
+  "biography": "",
+  "gender": "Male",
+  "race": "White / European Descent",
+  "ethnicity": "European American",
+  "residence": "South Atlantic",
+  "pronouns": "he/him/his",
+  "attractedTo": "Men & Women",
+  "debut": "06/10/1989",
+  "birthdate": "12/31/1972",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Buster_Horse.png",
+  "canGetPregnant": false,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 91.00,
+    "versatility": 79.00,
+    "overallActing": 88.00,
+    "intimidation": 62.65,
+    "dramaticActing": 64.00,
+    "romanticChemistry": 61.00,
+    "comedyTiming": 83.00,
+    "athleticism": 52.41,
+    "nonVerbalActing": 77.60,
+    "improvAbility": 63.78,
+    "combatSkills": 46.85,
+    "methodActing": 60.00,
+    "voiceActing": 84.00
+  },
+  "directingSkills": {
+    "vision": 89.00,
+    "storytelling": 88.79,
+    "actorDirection": 81.00,
+    "technicalKnowledge": 45.00,
+    "problemSolving": 61.00,
+    "leadership": 86.09
+  },
+  "writingSkills": {
+    "plotConstruction": 63.03,
+    "dialogueWriting": 57.95,
+    "characterDevelopment": 83.00,
+    "pacing": 47.01,
+    "genreMastery": {
+      "horror": 45.00,
+      "action": 40.00,
+      "comedy": 55.00,
+      "drama": 11.00,
+      "romance": 8.00,
+      "war": 12.00,
+      "historical": 5.00,
+      "fantasy": 61.00,
+      "sciFi": 67.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 15.00,
+    "crisisManagement": 25.00,
+    "industryKnowledge": 92.00,
+    "financialOversight": 30.00
+  },
+  "metaStats": {
+    "reputation": 90.00,
+    "potential": 60.00,
+    "workEthic": 81.49
+  },
+  "behaviorSliders": {
+    "professionalism": 78.79,
+    "teamOrientation": 82.33,
+    "motivation": 89.08,
+    "riskAppetite": 88.43,
+    "maintenanceNeeds": 77.66,
+    "humility": 76.41,
+    "sociability": 92.40
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": true,
+    "German": false,
+    "French": false,
+    "Italian": true,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": true,
+    "Canada": true,
+    "Mexico": true,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "sometimes",
+    "writer": "rare",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "rare"
+  },
+  "popularity": {
+  "United States": 88.00,
+  "Canada": 80.00,
+  "Mexico": 80.00,
+  "United Kingdom": 75.00,
+  "Ireland": 75.00,
+  "Central Europe": 75.00,
+  "Eastern Europe": 70.00,
+  "South America": 70.00,
+  "Japan": 70.00,
+  "Middle East": 70.00,
+  "Australia": 70.00,
+  "India & South Asia": 70.00,
+  "Africa": 70.00,
+  "Southeast Asia": 70.00,
+  "South Korea": 70.00,
+  "Scandinavia": 7500,
+  "Oceania": 70.00,
+  "China": 70.00,
+  "Russia": 70.00,
+  "regions": {
+    "New England": 88.00,
+    "Mid-Atlantic": 88.00,
+    "Great Lakes": 88.00,
+    "Midwest": 88.00,
+    "South Atlantic": 88.00,
+    "East South Central": 88.00,
+    "West South Central": 88.00,
+    "Mountain States": 88.00,
+    "Pacific (West Coast)": 88.00,
+    "Alaska": 88.00,
+    "Hawaii": 88.00,
+    "Puerto Rico": 88.00,
+
+    "The Maritimes": 80.00,
+    "Manitoba": 80.00,
+    "British Columbia": 80.00,
+    "Saskatchewan": 80.00,
+    "Quebec": 80.00,
+    "Ontario": 80.00,
+    "Alberta": 80.00,
+
+    "Northern Mexico": 80.00,
+    "South Eastern Mexico": 80.00,
+    "West Central Mexico": 80.00,
+
+    "Scotland": 75.00,
+    "Central England": 75.00,
+    "Northern England": 75.00,
+    "Southern England": 75.00,
+    "Northern Ireland": 75.00,
+
+    "Leinster": 75.00,
+    "Munster": 75.00,
+    "Connacht": 75.00,
+    "Ulster": 75.00,
+
+    "Tohoku": 70.00,
+    "Shikoku": 70.00,
+    "Kyushu": 70.00,
+    "Kinki": 70.00,
+    "Hokkaido": 70.00,
+    "Chugoku": 70.00,
+    "Chubu": 70.00,
+
+    "Seoul Capital Area": 70.00,
+    "Chungcheong Region": 70.00,
+    "Honam Region": 70.00,
+    "Yeongnam Region": 70.00,
+    "Gangwon Region": 70.00,
+    "Jeju Island": 70.00,
+
+    "The Andean Region": 70.00,
+    "Southern Cone": 70.00,
+    "Amazon Basin": 70.00,
+    "Eastern Lowlands": 70.00,
+    "The Guianas": 70.00,
+    "Pampas & Gran Chaco": 70.00,
+
+    "New South Wales": 70.00,
+    "Victoria": 70.00,
+    "Queensland": 70.00,
+    "South Australia": 70.00,
+    "Western Australia": 70.00,
+    "New Zealand": 70.00,
+    "Tasmania": 70.00,
+    "Northern Territory": 70.00,
+    "Australian Capital Territory": 70.00,
+    "North Island": 70.00,
+    "South Island": 70.00,
+
+    "Germany": 75.00,
+    "France": 75.00,
+    "Iberia": 75.00,
+    "Italy": 75.00,
+
+    "Gulf States": 70.00,
+    "Levant": 70.00,
+    "Egypt": 70.00,
+    "Iran": 70.00,
+    "Iraq": 70.00,
+    "Turkey": 70.00,
+    "Israel": 70.00,
+
+    "North India": 70.00,
+    "South India": 70.00,
+    "West India": 70.00,
+    "East & Northeast India": 70.00,
+    "Nepal": 70.00,
+    "Sri Lanka": 70.00,
+    "Pakistan": 70.00,
+    "Bangladesh": 70.00,
+
+    "North Africa": 70.00,
+    "West Africa": 70.00,
+    "East Africa": 70.00,
+    "Central Africa": 70.00,
+    "Southern Africa": 70.00,
+
+    "Indonesia": 70.00,
+    "Malaysia": 70.00,
+    "Philippines": 70.00,
+    "Thailand": 70.00,
+    "Vietnam": 70.00,
+    "Singapore": 70.00,
+
+    "Sweden": 70.00,
+    "Norway": 70.00,
+    "Denmark": 70.00,
+    "Finland": 70.00,
+
+    "Polynesia": 70.00,
+    "Micronesia": 70.00,
+    "Melanesia": 70.00,
+
+    "Mainland China": 70.00,
+    "Hong Kong": 70.00,
+    "Taiwan": 70.00,
+
+    "Moscow Region": 70.00,
+    "Northwest Russia": 70.00,
+    "Siberia & Far East": 70.00,
+    "Southern Russia & Caucasus": 70.00,
+
+    "Austria": 70.00,
+    "Switzerland": 70.00,
+    "Poland": 70.00,
+    "Czech Republic": 70.00,
+    "Hungary": 70.00,
+    "Slovakia": 70.00,
+    "Slovenia": 70.00,
+    "Croatia": 70.00,
+    "Ukraine": 70.00
+  }
+}
+},
+{
+  "id": "ID0000058",
+  "fullName": "Vivian Eiserman",
+  "shortName": "V. Eiserman",
+  "biography": "",
+  "gender": "Female",
+  "race": "White / European Descent",
+  "ethnicity": "European American",
+  "residence": "East South Central",
+  "pronouns": "she/her/hers",
+  "attractedTo": "Men & Women",
+  "debut": "08/17/2023",
+  "birthdate": "08/18/2000",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Vivian_Eiserman.png",
+  "canGetPregnant": true,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 55.00,
+    "versatility": 17.00,
+    "overallActing": 0.00,
+    "intimidation": 2.00,
+    "dramaticActing": 14.00,
+    "romanticChemistry": 13.97,
+    "comedyTiming": 27.00,
+    "athleticism": 58.00,
+    "nonVerbalActing": 15.07,
+    "improvAbility": 28.00,
+    "combatSkills": 0.00,
+    "methodActing": 0.00,
+    "voiceActing": 14.00
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 0.00,
+    "crisisManagement": 0.00,
+    "industryKnowledge": 0.00,
+    "financialOversight": 0.00
+  },
+  "metaStats": {
+    "reputation": 85.00,
+    "potential": 61.00,
+    "workEthic": 88.00
+  },
+  "behaviorSliders": {
+    "professionalism": 84.00,
+    "teamOrientation": 88.00,
+    "motivation": 33.12,
+    "riskAppetite": 60.00,
+    "maintenanceNeeds": 84.76,
+    "humility": 86.23,
+    "sociability": 55.00
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": true,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "never"
+  },
+  "popularity": {
+  "United States": 0.00,
+  "Canada": 0.00,
+  "Mexico": 0.00,
+  "United Kingdom": 0.00,
+  "Ireland": 0.00,
+  "Central Europe": 0.00,
+  "Eastern Europe": 0.00,
+  "South America": 0.00,
+  "Japan": 0.00,
+  "Middle East": 0.00,
+  "Australia": 0.00,
+  "India & South Asia": 0.00,
+  "Africa": 0.00,
+  "Southeast Asia": 0.00,
+  "South Korea": 0.00,
+  "Scandinavia": 0.00,
+  "Oceania": 0.00,
+  "China": 0.00,
+  "Russia": 0.00,
+  "regions": {
+    "New England": 0.00,
+    "Mid-Atlantic": 0.00,
+    "Great Lakes": 0.00,
+    "Midwest": 0.00,
+    "South Atlantic": 0.00,
+    "East South Central": 0.00,
+    "West South Central": 0.00,
+    "Mountain States": 0.00,
+    "Pacific (West Coast)": 0.00,
+    "Alaska": 0.00,
+    "Hawaii": 0.00,
+    "Puerto Rico": 0.00,
+
+    "The Maritimes": 0.00,
+    "Manitoba": 0.00,
+    "British Columbia": 0.00,
+    "Saskatchewan": 0.00,
+    "Quebec": 0.00,
+    "Ontario": 0.00,
+    "Alberta": 0.00,
+
+    "Northern Mexico": 0.00,
+    "South Eastern Mexico": 0.00,
+    "West Central Mexico": 0.00,
+
+    "Scotland": 0.00,
+    "Central England": 0.00,
+    "Northern England": 0.00,
+    "Southern England": 0.00,
+    "Northern Ireland": 0.00,
+
+    "Leinster": 0.00,
+    "Munster": 0.00,
+    "Connacht": 0.00,
+    "Ulster": 0.00,
+
+    "Tohoku": 0.00,
+    "Shikoku": 0.00,
+    "Kyushu": 0.00,
+    "Kinki": 0.00,
+    "Hokkaido": 0.00,
+    "Chugoku": 0.00,
+    "Chubu": 0.00,
+
+    "Seoul Capital Area": 0.00,
+    "Chungcheong Region": 0.00,
+    "Honam Region": 0.00,
+    "Yeongnam Region": 0.00,
+    "Gangwon Region": 0.00,
+    "Jeju Island": 0.00,
+
+    "The Andean Region": 0.00,
+    "Southern Cone": 0.00,
+    "Amazon Basin": 0.00,
+    "Eastern Lowlands": 0.00,
+    "The Guianas": 0.00,
+    "Pampas & Gran Chaco": 0.00,
+
+    "New South Wales": 0.00,
+    "Victoria": 0.00,
+    "Queensland": 0.00,
+    "South Australia": 0.00,
+    "Western Australia": 0.00,
+    "New Zealand": 0.00,
+    "Tasmania": 0.00,
+    "Northern Territory": 0.00,
+    "Australian Capital Territory": 0.00,
+    "North Island": 0.00,
+    "South Island": 0.00,
+
+    "Germany": 0.00,
+    "France": 0.00,
+    "Iberia": 0.00,
+    "Italy": 0.00,
+
+    "Gulf States": 0.00,
+    "Levant": 0.00,
+    "Egypt": 0.00,
+    "Iran": 0.00,
+    "Iraq": 0.00,
+    "Turkey": 0.00,
+    "Israel": 0.00,
+
+    "North India": 0.00,
+    "South India": 0.00,
+    "West India": 0.00,
+    "East & Northeast India": 0.00,
+    "Nepal": 0.00,
+    "Sri Lanka": 0.00,
+    "Pakistan": 0.00,
+    "Bangladesh": 0.00,
+
+    "North Africa": 0.00,
+    "West Africa": 0.00,
+    "East Africa": 0.00,
+    "Central Africa": 0.00,
+    "Southern Africa": 0.00,
+
+    "Indonesia": 0.00,
+    "Malaysia": 0.00,
+    "Philippines": 0.00,
+    "Thailand": 0.00,
+    "Vietnam": 0.00,
+    "Singapore": 0.00,
+
+    "Sweden": 0.00,
+    "Norway": 0.00,
+    "Denmark": 0.00,
+    "Finland": 0.00,
+
+    "Polynesia": 0.00,
+    "Micronesia": 0.00,
+    "Melanesia": 0.00,
+
+    "Mainland China": 0.00,
+    "Hong Kong": 0.00,
+    "Taiwan": 0.00,
+
+    "Moscow Region": 0.00,
+    "Northwest Russia": 0.00,
+    "Siberia & Far East": 0.00,
+    "Southern Russia & Caucasus": 0.00,
+
+    "Austria": 0.00,
+    "Switzerland": 0.00,
+    "Poland": 0.00,
+    "Czech Republic": 0.00,
+    "Hungary": 0.00,
+    "Slovakia": 0.00,
+    "Slovenia": 0.00,
+    "Croatia": 0.00,
+    "Ukraine": 0.00
+  }
+}
+},
+{
+  "id": "ID0000059",
+  "fullName": "Tajon Redgrave",
+  "shortName": "T. Redgrave",
+  "biography": "",
+  "gender": "Male",
+  "race": "Black / African Descent",
+  "ethnicity": "African American",
+  "residence": "East South Central",
+  "pronouns": "he/him/his",
+  "attractedTo": "Men & Women",
+  "debut": "10/26/2022",
+  "birthdate": "09/11/1995",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Tajon_Redgrave.png",
+  "canGetPregnant": false,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 46.51,
+    "versatility": 19.00,
+    "overallActing": 17.92,
+    "intimidation": 47.87,
+    "dramaticActing": 16.00,
+    "romanticChemistry": 15.00,
+    "comedyTiming": 12.00,
+    "athleticism": 61.00,
+    "nonVerbalActing": 14.68,
+    "improvAbility": 8.17,
+    "combatSkills": 12.45,
+    "methodActing": 3.00,
+    "voiceActing": 9.00
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 0.00,
+    "crisisManagement": 0.00,
+    "industryKnowledge": 0.00,
+    "financialOversight": 0.00
+  },
+  "metaStats": {
+    "reputation": 70.00,
+    "potential": 66.00,
+    "workEthic": 67.00
+  },
+  "behaviorSliders": {
+    "professionalism": 78.00,
+    "teamOrientation": 83.59,
+    "motivation": 44.00,
+    "riskAppetite": 46.00,
+    "maintenanceNeeds": 64.00,
+    "humility": 69.00,
+    "sociability": 40.00
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": true,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "never"
+  },
+  "popularity": {
+  "United States": 0.50,
+  "Canada": 0.00,
+  "Mexico": 0.00,
+  "United Kingdom": 0.00,
+  "Ireland": 0.00,
+  "Central Europe": 0.00,
+  "Eastern Europe": 0.00,
+  "South America": 0.00,
+  "Japan": 0.00,
+  "Middle East": 0.00,
+  "Australia": 0.00,
+  "India & South Asia": 0.00,
+  "Africa": 0.00,
+  "Southeast Asia": 0.00,
+  "South Korea": 0.00,
+  "Scandinavia": 0.00,
+  "Oceania": 0.00,
+  "China": 0.00,
+  "Russia": 0.00,
+  "regions": {
+    "New England": 0.50,
+    "Mid-Atlantic": 0.50,
+    "Great Lakes": 0.50,
+    "Midwest": 0.50,
+    "South Atlantic": 0.50,
+    "East South Central": 0.50,
+    "West South Central": 0.50,
+    "Mountain States": 0.50,
+    "Pacific (West Coast)": 0.50,
+    "Alaska": 0.50,
+    "Hawaii": 0.50,
+    "Puerto Rico": 0.50,
+
+    "The Maritimes": 0.00,
+    "Manitoba": 0.00,
+    "British Columbia": 0.00,
+    "Saskatchewan": 0.00,
+    "Quebec": 0.00,
+    "Ontario": 0.00,
+    "Alberta": 0.00,
+
+    "Northern Mexico": 0.00,
+    "South Eastern Mexico": 0.00,
+    "West Central Mexico": 0.00,
+
+    "Scotland": 0.00,
+    "Central England": 0.00,
+    "Northern England": 0.00,
+    "Southern England": 0.00,
+    "Northern Ireland": 0.00,
+
+    "Leinster": 0.00,
+    "Munster": 0.00,
+    "Connacht": 0.00,
+    "Ulster": 0.00,
+
+    "Tohoku": 0.00,
+    "Shikoku": 0.00,
+    "Kyushu": 0.00,
+    "Kinki": 0.00,
+    "Hokkaido": 0.00,
+    "Chugoku": 0.00,
+    "Chubu": 0.00,
+
+    "Seoul Capital Area": 0.00,
+    "Chungcheong Region": 0.00,
+    "Honam Region": 0.00,
+    "Yeongnam Region": 0.00,
+    "Gangwon Region": 0.00,
+    "Jeju Island": 0.00,
+
+    "The Andean Region": 0.00,
+    "Southern Cone": 0.00,
+    "Amazon Basin": 0.00,
+    "Eastern Lowlands": 0.00,
+    "The Guianas": 0.00,
+    "Pampas & Gran Chaco": 0.00,
+
+    "New South Wales": 0.00,
+    "Victoria": 0.00,
+    "Queensland": 0.00,
+    "South Australia": 0.00,
+    "Western Australia": 0.00,
+    "New Zealand": 0.00,
+    "Tasmania": 0.00,
+    "Northern Territory": 0.00,
+    "Australian Capital Territory": 0.00,
+    "North Island": 0.00,
+    "South Island": 0.00,
+
+    "Germany": 0.00,
+    "France": 0.00,
+    "Iberia": 0.00,
+    "Italy": 0.00,
+
+    "Gulf States": 0.00,
+    "Levant": 0.00,
+    "Egypt": 0.00,
+    "Iran": 0.00,
+    "Iraq": 0.00,
+    "Turkey": 0.00,
+    "Israel": 0.00,
+
+    "North India": 0.00,
+    "South India": 0.00,
+    "West India": 0.00,
+    "East & Northeast India": 0.00,
+    "Nepal": 0.00,
+    "Sri Lanka": 0.00,
+    "Pakistan": 0.00,
+    "Bangladesh": 0.00,
+
+    "North Africa": 0.00,
+    "West Africa": 0.00,
+    "East Africa": 0.00,
+    "Central Africa": 0.00,
+    "Southern Africa": 0.00,
+
+    "Indonesia": 0.00,
+    "Malaysia": 0.00,
+    "Philippines": 0.00,
+    "Thailand": 0.00,
+    "Vietnam": 0.00,
+    "Singapore": 0.00,
+
+    "Sweden": 0.00,
+    "Norway": 0.00,
+    "Denmark": 0.00,
+    "Finland": 0.00,
+
+    "Polynesia": 0.00,
+    "Micronesia": 0.00,
+    "Melanesia": 0.00,
+
+    "Mainland China": 0.00,
+    "Hong Kong": 0.00,
+    "Taiwan": 0.00,
+
+    "Moscow Region": 0.00,
+    "Northwest Russia": 0.00,
+    "Siberia & Far East": 0.00,
+    "Southern Russia & Caucasus": 0.00,
+
+    "Austria": 0.00,
+    "Switzerland": 0.00,
+    "Poland": 0.00,
+    "Czech Republic": 0.00,
+    "Hungary": 0.00,
+    "Slovakia": 0.00,
+    "Slovenia": 0.00,
+    "Croatia": 0.00,
+    "Ukraine": 0.00
+  }
+}
+},
+{
+  "id": "ID0000060",
+  "fullName": "Esra Barreto",
+  "shortName": "E. Barreto",
+  "biography": "",
+  "gender": "Non-Binary",
+  "race": "White / European Descent",
+  "ethnicity": "European American",
+  "residence": "East South Central",
+  "pronouns": "they/them/theirs",
+  "attractedTo": "Any",
+  "debut": "11/11/2024",
+  "birthdate": "07/09/2000",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Esra_Barreto.png",
+  "canGetPregnant": false,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 11.00,
+    "versatility": 11.23,
+    "overallActing": 15.77,
+    "intimidation": 7.00,
+    "dramaticActing": 16.81,
+    "romanticChemistry": 16.29,
+    "comedyTiming": 19.00,
+    "athleticism": 61.61,
+    "nonVerbalActing": 16.00,
+    "improvAbility": 7.00,
+    "combatSkills": 3.00,
+    "methodActing": 3.44,
+    "voiceActing": 16.15
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 0.00,
+    "crisisManagement": 0.00,
+    "industryKnowledge": 0.00,
+    "financialOversight": 0.00
+  },
+  "metaStats": {
+    "reputation": 0.00,
+    "potential": 0.00,
+    "workEthic": 0.00
+  },
+  "behaviorSliders": {
+    "professionalism": 0.00,
+    "teamOrientation": 0.00,
+    "motivation": 0.00,
+    "riskAppetite": 0.00,
+    "maintenanceNeeds": 0.00,
+    "humility": 0.00,
+    "sociability": 0.00
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": true,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "never"
+  },
+  "popularity": {
+  "United States": 0.20,
+  "Canada": 0.00,
+  "Mexico": 0.00,
+  "United Kingdom": 0.00,
+  "Ireland": 0.00,
+  "Central Europe": 0.00,
+  "Eastern Europe": 0.00,
+  "South America": 0.00,
+  "Japan": 0.00,
+  "Middle East": 0.00,
+  "Australia": 0.00,
+  "India & South Asia": 0.00,
+  "Africa": 0.00,
+  "Southeast Asia": 0.00,
+  "South Korea": 0.00,
+  "Scandinavia": 0.00,
+  "Oceania": 0.00,
+  "China": 0.00,
+  "Russia": 0.00,
+  "regions": {
+    "New England": 0.20,
+    "Mid-Atlantic": 0.20,
+    "Great Lakes": 0.20,
+    "Midwest": 0.20,
+    "South Atlantic": 0.20,
+    "East South Central": 0.20,
+    "West South Central": 0.20,
+    "Mountain States": 0.20,
+    "Pacific (West Coast)": 0.20,
+    "Alaska": 0.20,
+    "Hawaii": 0.20,
+    "Puerto Rico": 0.20,
+
+    "The Maritimes": 0.00,
+    "Manitoba": 0.00,
+    "British Columbia": 0.00,
+    "Saskatchewan": 0.00,
+    "Quebec": 0.00,
+    "Ontario": 0.00,
+    "Alberta": 0.00,
+
+    "Northern Mexico": 0.00,
+    "South Eastern Mexico": 0.00,
+    "West Central Mexico": 0.00,
+
+    "Scotland": 0.00,
+    "Central England": 0.00,
+    "Northern England": 0.00,
+    "Southern England": 0.00,
+    "Northern Ireland": 0.00,
+
+    "Leinster": 0.00,
+    "Munster": 0.00,
+    "Connacht": 0.00,
+    "Ulster": 0.00,
+
+    "Tohoku": 0.00,
+    "Shikoku": 0.00,
+    "Kyushu": 0.00,
+    "Kinki": 0.00,
+    "Hokkaido": 0.00,
+    "Chugoku": 0.00,
+    "Chubu": 0.00,
+
+    "Seoul Capital Area": 0.00,
+    "Chungcheong Region": 0.00,
+    "Honam Region": 0.00,
+    "Yeongnam Region": 0.00,
+    "Gangwon Region": 0.00,
+    "Jeju Island": 0.00,
+
+    "The Andean Region": 0.00,
+    "Southern Cone": 0.00,
+    "Amazon Basin": 0.00,
+    "Eastern Lowlands": 0.00,
+    "The Guianas": 0.00,
+    "Pampas & Gran Chaco": 0.00,
+
+    "New South Wales": 0.00,
+    "Victoria": 0.00,
+    "Queensland": 0.00,
+    "South Australia": 0.00,
+    "Western Australia": 0.00,
+    "New Zealand": 0.00,
+    "Tasmania": 0.00,
+    "Northern Territory": 0.00,
+    "Australian Capital Territory": 0.00,
+    "North Island": 0.00,
+    "South Island": 0.00,
+
+    "Germany": 0.00,
+    "France": 0.00,
+    "Iberia": 0.00,
+    "Italy": 0.00,
+
+    "Gulf States": 0.00,
+    "Levant": 0.00,
+    "Egypt": 0.00,
+    "Iran": 0.00,
+    "Iraq": 0.00,
+    "Turkey": 0.00,
+    "Israel": 0.00,
+
+    "North India": 0.00,
+    "South India": 0.00,
+    "West India": 0.00,
+    "East & Northeast India": 0.00,
+    "Nepal": 0.00,
+    "Sri Lanka": 0.00,
+    "Pakistan": 0.00,
+    "Bangladesh": 0.00,
+
+    "North Africa": 0.00,
+    "West Africa": 0.00,
+    "East Africa": 0.00,
+    "Central Africa": 0.00,
+    "Southern Africa": 0.00,
+
+    "Indonesia": 0.00,
+    "Malaysia": 0.00,
+    "Philippines": 0.00,
+    "Thailand": 0.00,
+    "Vietnam": 0.00,
+    "Singapore": 0.00,
+
+    "Sweden": 0.00,
+    "Norway": 0.00,
+    "Denmark": 0.00,
+    "Finland": 0.00,
+
+    "Polynesia": 0.00,
+    "Micronesia": 0.00,
+    "Melanesia": 0.00,
+
+    "Mainland China": 0.00,
+    "Hong Kong": 0.00,
+    "Taiwan": 0.00,
+
+    "Moscow Region": 0.00,
+    "Northwest Russia": 0.00,
+    "Siberia & Far East": 0.00,
+    "Southern Russia & Caucasus": 0.00,
+
+    "Austria": 0.00,
+    "Switzerland": 0.00,
+    "Poland": 0.00,
+    "Czech Republic": 0.00,
+    "Hungary": 0.00,
+    "Slovakia": 0.00,
+    "Slovenia": 0.00,
+    "Croatia": 0.00,
+    "Ukraine": 0.00
+  }
+}
+},
+{
+  "id": "ID0000061",
+  "fullName": "Bernadette Adler",
+  "shortName": "B. Adler",
+  "biography": "Bernadette Adler is a talented actor known for her versatility and strong performances in both film and television.",
+  "gender": "Female",
+  "race": "White / European Descent",
+  "ethnicity": "Jewish (Ashkenazi)",
+  "residence": "West South Central",
+  "pronouns": "she/her/hers",
+  "attractedTo": "Men & Women",
+  "debut": "03/17/2022",
+  "birthdate": "12/20/1999",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Bernadette_Adler.png",
+  "canGetPregnant": true,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 9.00,
+    "versatility": 11.00,
+    "overallActing": 15.04,
+    "intimidation": 16.00,
+    "dramaticActing": 20.00,
+    "romanticChemistry": 21.00,
+    "comedyTiming": 6.00,
+    "athleticism": 58.73,
+    "nonVerbalActing": 19.00,
+    "improvAbility": 17.87,
+    "combatSkills": 2.00,
+    "methodActing": 3.00,
+    "voiceActing": 15.00
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 0.00,
+    "crisisManagement": 0.00,
+    "industryKnowledge": 0.00,
+    "financialOversight": 0.00
+  },
+  "metaStats": {
+    "reputation": 84.00,
+    "potential": 80.00,
+    "workEthic": 69.00
+  },
+  "behaviorSliders": {
+    "professionalism": 71.00,
+    "teamOrientation": 77.00,
+    "motivation": 70.00,
+    "riskAppetite": 55.66,
+    "maintenanceNeeds": 84.56,
+    "humility": 83.03,
+    "sociability": 33.00
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": true,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": true,
+    "Canada": true,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "never"
+  },
+  "popularity": {
+  "United States": 0.30,
+  "Canada": 0.00,
+  "Mexico": 0.00,
+  "United Kingdom": 0.00,
+  "Ireland": 0.00,
+  "Central Europe": 0.00,
+  "Eastern Europe": 0.00,
+  "South America": 0.00,
+  "Japan": 0.00,
+  "Middle East": 0.00,
+  "Australia": 0.00,
+  "India & South Asia": 0.00,
+  "Africa": 0.00,
+  "Southeast Asia": 0.00,
+  "South Korea": 0.00,
+  "Scandinavia": 0.00,
+  "Oceania": 0.00,
+  "China": 0.00,
+  "Russia": 0.00,
+  "regions": {
+    "New England": 0.30,
+    "Mid-Atlantic": 0.30,
+    "Great Lakes": 0.30,
+    "Midwest": 0.30,
+    "South Atlantic": 0.30,
+    "East South Central": 0.30,
+    "West South Central": 0.30,
+    "Mountain States": 0.30,
+    "Pacific (West Coast)": 0.30,
+    "Alaska": 0.30,
+    "Hawaii": 0.30,
+    "Puerto Rico": 0.30,
+
+    "The Maritimes": 0.00,
+    "Manitoba": 0.00,
+    "British Columbia": 0.00,
+    "Saskatchewan": 0.00,
+    "Quebec": 0.00,
+    "Ontario": 0.00,
+    "Alberta": 0.00,
+
+    "Northern Mexico": 0.00,
+    "South Eastern Mexico": 0.00,
+    "West Central Mexico": 0.00,
+
+    "Scotland": 0.00,
+    "Central England": 0.00,
+    "Northern England": 0.00,
+    "Southern England": 0.00,
+    "Northern Ireland": 0.00,
+
+    "Leinster": 0.00,
+    "Munster": 0.00,
+    "Connacht": 0.00,
+    "Ulster": 0.00,
+
+    "Tohoku": 0.00,
+    "Shikoku": 0.00,
+    "Kyushu": 0.00,
+    "Kinki": 0.00,
+    "Hokkaido": 0.00,
+    "Chugoku": 0.00,
+    "Chubu": 0.00,
+
+    "Seoul Capital Area": 0.00,
+    "Chungcheong Region": 0.00,
+    "Honam Region": 0.00,
+    "Yeongnam Region": 0.00,
+    "Gangwon Region": 0.00,
+    "Jeju Island": 0.00,
+
+    "The Andean Region": 0.00,
+    "Southern Cone": 0.00,
+    "Amazon Basin": 0.00,
+    "Eastern Lowlands": 0.00,
+    "The Guianas": 0.00,
+    "Pampas & Gran Chaco": 0.00,
+
+    "New South Wales": 0.00,
+    "Victoria": 0.00,
+    "Queensland": 0.00,
+    "South Australia": 0.00,
+    "Western Australia": 0.00,
+    "New Zealand": 0.00,
+    "Tasmania": 0.00,
+    "Northern Territory": 0.00,
+    "Australian Capital Territory": 0.00,
+    "North Island": 0.00,
+    "South Island": 0.00,
+
+    "Germany": 0.00,
+    "France": 0.00,
+    "Iberia": 0.00,
+    "Italy": 0.00,
+
+    "Gulf States": 0.00,
+    "Levant": 0.00,
+    "Egypt": 0.00,
+    "Iran": 0.00,
+    "Iraq": 0.00,
+    "Turkey": 0.00,
+    "Israel": 0.00,
+
+    "North India": 0.00,
+    "South India": 0.00,
+    "West India": 0.00,
+    "East & Northeast India": 0.00,
+    "Nepal": 0.00,
+    "Sri Lanka": 0.00,
+    "Pakistan": 0.00,
+    "Bangladesh": 0.00,
+
+    "North Africa": 0.00,
+    "West Africa": 0.00,
+    "East Africa": 0.00,
+    "Central Africa": 0.00,
+    "Southern Africa": 0.00,
+
+    "Indonesia": 0.00,
+    "Malaysia": 0.00,
+    "Philippines": 0.00,
+    "Thailand": 0.00,
+    "Vietnam": 0.00,
+    "Singapore": 0.00,
+
+    "Sweden": 0.00,
+    "Norway": 0.00,
+    "Denmark": 0.00,
+    "Finland": 0.00,
+
+    "Polynesia": 0.00,
+    "Micronesia": 0.00,
+    "Melanesia": 0.00,
+
+    "Mainland China": 0.00,
+    "Hong Kong": 0.00,
+    "Taiwan": 0.00,
+
+    "Moscow Region": 0.00,
+    "Northwest Russia": 0.00,
+    "Siberia & Far East": 0.00,
+    "Southern Russia & Caucasus": 0.00,
+
+    "Austria": 0.00,
+    "Switzerland": 0.00,
+    "Poland": 0.00,
+    "Czech Republic": 0.00,
+    "Hungary": 0.00,
+    "Slovakia": 0.00,
+    "Slovenia": 0.00,
+    "Croatia": 0.00,
+    "Ukraine": 0.00
+  }
+}
+},
+{
+  "id": "ID0000062",
+  "fullName": "Rana Yousifi",
+  "shortName": "R. Yousifi",
+  "biography": "",
+  "gender": "Female",
+  "race": "Middle Eastern / North African",
+  "ethnicity": "Palestinian",
+  "residence": "Gulf States",
+  "pronouns": "she/her/hers",
+  "attractedTo": "Men & Women",
+  "debut": "04/25/2021",
+  "birthdate": "01/02/1995",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Rana_Yousifi.png",
+  "canGetPregnant": true,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 34.06,
+    "versatility": 26.00,
+    "overallActing": 40.00,
+    "intimidation": 41.00,
+    "dramaticActing": 38.11,
+    "romanticChemistry": 21.00,
+    "comedyTiming": 11.15,
+    "athleticism": 29.00,
+    "nonVerbalActing": 21.00,
+    "improvAbility": 18.00,
+    "combatSkills": 3.00,
+    "methodActing": 4.00,
+    "voiceActing": 16.00
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 0.00,
+    "crisisManagement": 0.00,
+    "industryKnowledge": 0.00,
+    "financialOversight": 0.00
+  },
+  "metaStats": {
+    "reputation": 77.19,
+    "potential": 68.00,
+    "workEthic": 68.00
+  },
+  "behaviorSliders": {
+    "professionalism": 70.00,
+    "teamOrientation": 55.00,
+    "motivation": 21.00,
+    "riskAppetite": 36.00,
+    "maintenanceNeeds": 82.00,
+    "humility": 58.00,
+    "sociability": 65.00
+  },
+  "languagesSpoken": {
+    "English": false,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": true,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": false,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": true,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "never"
+  },
+  "popularity": {
+  "United States": 0.00,
+  "Canada": 0.00,
+  "Mexico": 0.00,
+  "United Kingdom": 0.00,
+  "Ireland": 0.00,
+  "Central Europe": 0.00,
+  "Eastern Europe": 0.00,
+  "South America": 0.00,
+  "Japan": 0.00,
+  "Middle East": 1.20,
+  "Australia": 0.00,
+  "India & South Asia": 0.00,
+  "Africa": 0.00,
+  "Southeast Asia": 0.00,
+  "South Korea": 0.00,
+  "Scandinavia": 0.00,
+  "Oceania": 0.00,
+  "China": 0.00,
+  "Russia": 0.00,
+  "regions": {
+    "New England": 0.00,
+    "Mid-Atlantic": 0.00,
+    "Great Lakes": 0.00,
+    "Midwest": 0.00,
+    "South Atlantic": 0.00,
+    "East South Central": 0.00,
+    "West South Central": 0.00,
+    "Mountain States": 0.00,
+    "Pacific (West Coast)": 0.00,
+    "Alaska": 0.00,
+    "Hawaii": 0.00,
+    "Puerto Rico": 0.00,
+
+    "The Maritimes": 0.00,
+    "Manitoba": 0.00,
+    "British Columbia": 0.00,
+    "Saskatchewan": 0.00,
+    "Quebec": 0.00,
+    "Ontario": 0.00,
+    "Alberta": 0.00,
+
+    "Northern Mexico": 0.00,
+    "South Eastern Mexico": 0.00,
+    "West Central Mexico": 0.00,
+
+    "Scotland": 0.00,
+    "Central England": 0.00,
+    "Northern England": 0.00,
+    "Southern England": 0.00,
+    "Northern Ireland": 0.00,
+
+    "Leinster": 0.00,
+    "Munster": 0.00,
+    "Connacht": 0.00,
+    "Ulster": 0.00,
+
+    "Tohoku": 0.00,
+    "Shikoku": 0.00,
+    "Kyushu": 0.00,
+    "Kinki": 0.00,
+    "Hokkaido": 0.00,
+    "Chugoku": 0.00,
+    "Chubu": 0.00,
+
+    "Seoul Capital Area": 0.00,
+    "Chungcheong Region": 0.00,
+    "Honam Region": 0.00,
+    "Yeongnam Region": 0.00,
+    "Gangwon Region": 0.00,
+    "Jeju Island": 0.00,
+
+    "The Andean Region": 0.00,
+    "Southern Cone": 0.00,
+    "Amazon Basin": 0.00,
+    "Eastern Lowlands": 0.00,
+    "The Guianas": 0.00,
+    "Pampas & Gran Chaco": 0.00,
+
+    "New South Wales": 0.00,
+    "Victoria": 0.00,
+    "Queensland": 0.00,
+    "South Australia": 0.00,
+    "Western Australia": 0.00,
+    "New Zealand": 0.00,
+    "Tasmania": 0.00,
+    "Northern Territory": 0.00,
+    "Australian Capital Territory": 0.00,
+    "North Island": 0.00,
+    "South Island": 0.00,
+
+    "Germany": 0.00,
+    "France": 0.00,
+    "Iberia": 0.00,
+    "Italy": 0.00,
+
+    "Gulf States": 1.20,
+    "Levant": 1.20,
+    "Egypt": 1.20,
+    "Iran": 1.20,
+    "Iraq": 1.20,
+    "Turkey": 1.20,
+    "Israel": 1.20,
+
+    "North India": 0.00,
+    "South India": 0.00,
+    "West India": 0.00,
+    "East & Northeast India": 0.00,
+    "Nepal": 0.00,
+    "Sri Lanka": 0.00,
+    "Pakistan": 0.00,
+    "Bangladesh": 0.00,
+
+    "North Africa": 0.00,
+    "West Africa": 0.00,
+    "East Africa": 0.00,
+    "Central Africa": 0.00,
+    "Southern Africa": 0.00,
+
+    "Indonesia": 0.00,
+    "Malaysia": 0.00,
+    "Philippines": 0.00,
+    "Thailand": 0.00,
+    "Vietnam": 0.00,
+    "Singapore": 0.00,
+
+    "Sweden": 0.00,
+    "Norway": 0.00,
+    "Denmark": 0.00,
+    "Finland": 0.00,
+
+    "Polynesia": 0.00,
+    "Micronesia": 0.00,
+    "Melanesia": 0.00,
+
+    "Mainland China": 0.00,
+    "Hong Kong": 0.00,
+    "Taiwan": 0.00,
+
+    "Moscow Region": 0.00,
+    "Northwest Russia": 0.00,
+    "Siberia & Far East": 0.00,
+    "Southern Russia & Caucasus": 0.00,
+
+    "Austria": 0.00,
+    "Switzerland": 0.00,
+    "Poland": 0.00,
+    "Czech Republic": 0.00,
+    "Hungary": 0.00,
+    "Slovakia": 0.00,
+    "Slovenia": 0.00,
+    "Croatia": 0.00,
+    "Ukraine": 0.00
+  }
+}
+},
+{
+  "id": "ID0000063",
+  "fullName": "Azizul Hafeez",
+  "shortName": "A. Hafeez",
+  "biography": "",
+  "gender": "Male",
+  "race": "Middle Eastern / North African",
+  "ethnicity": "Egyptian",
+  "residence": "Gulf States",
+  "pronouns": "he/him/his",
+  "attractedTo": "Women",
+  "debut": "02/27/1984",
+  "birthdate": "03/13/1966",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_ Azizul_Hafeez.png",
+  "canGetPregnant": false,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 82.14,
+    "versatility": 74.55,
+    "overallActing": 77.00,
+    "intimidation": 34.08,
+    "dramaticActing": 79.12,
+    "romanticChemistry": 78.14,
+    "comedyTiming": 81.90,
+    "athleticism": 39.09,
+    "nonVerbalActing": 84.56,
+    "improvAbility": 79.32,
+    "combatSkills": 10.00,
+    "methodActing": 40.00,
+    "voiceActing": 68.49
+  },
+  "directingSkills": {
+    "vision": 66.00,
+    "storytelling": 71.00,
+    "actorDirection": 75.00,
+    "technicalKnowledge": 40.00,
+    "problemSolving": 58.00,
+    "leadership": 75.00
+  },
+  "writingSkills": {
+    "plotConstruction": 44.00,
+    "dialogueWriting": 87.00,
+    "characterDevelopment": 56.00,
+    "pacing": 71.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 67.00,
+      "comedy": 0.00,
+      "drama": 76.00,
+      "romance": 79.00,
+      "war": 44.00,
+      "historical": 56.00,
+      "fantasy": 40.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 67.00,
+    "crisisManagement": 10.00,
+    "industryKnowledge": 90.00,
+    "financialOversight": 34.00
+  },
+  "metaStats": {
+    "reputation": 64.44,
+    "potential": 23.01,
+    "workEthic": 77.00
+  },
+  "behaviorSliders": {
+    "professionalism": 77.00,
+    "teamOrientation": 33.00,
+    "motivation": 46.00,
+    "riskAppetite": 14.00,
+    "maintenanceNeeds": 34.00,
+    "humility": 40.09,
+    "sociability": 80.00
+  },
+  "languagesSpoken": {
+    "English": false,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": true,
+    "Turkish": true,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": false,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": true,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "sometimes",
+    "writer": "sometimes",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "never"
+  },
+  "popularity": {
+  "United States": 40.00,
+  "Canada": 40.00,
+  "Mexico": 40.00,
+  "United Kingdom": 40.00,
+  "Ireland": 40.00,
+  "Central Europe": 40.00,
+  "Eastern Europe": 40.00,
+  "South America": 40.00,
+  "Japan": 40.00,
+  "Middle East": 88.00,
+  "Australia": 40.00,
+  "India & South Asia": 80.00,
+  "Africa": 80.00,
+  "Southeast Asia": 70.00,
+  "South Korea": 40.00,
+  "Scandinavia": 40.00,
+  "Oceania": 40.00,
+  "China": 40.00,
+  "Russia": 40.00,
+  "regions": {
+    "New England": 40.00,
+    "Mid-Atlantic": 40.00,
+    "Great Lakes": 40.00,
+    "Midwest": 40.00,
+    "South Atlantic": 40.00,
+    "East South Central": 40.00,
+    "West South Central": 40.00,
+    "Mountain States": 40.00,
+    "Pacific (West Coast)": 40.00,
+    "Alaska": 40.00,
+    "Hawaii": 40.00,
+    "Puerto Rico": 40.00,
+
+    "The Maritimes": 40.00,
+    "Manitoba": 40.00,
+    "British Columbia": 40.00,
+    "Saskatchewan": 40.00,
+    "Quebec": 40.00,
+    "Ontario": 40.00,
+    "Alberta": 40.00,
+
+    "Northern Mexico": 40.00,
+    "South Eastern Mexico": 40.00,
+    "West Central Mexico": 40.00,
+
+    "Scotland": 40.00,
+    "Central England": 40.00,
+    "Northern England": 40.00,
+    "Southern England": 40.00,
+    "Northern Ireland": 40.00,
+
+    "Leinster": 40.00,
+    "Munster": 40.00,
+    "Connacht": 40.00,
+    "Ulster": 40.00,
+
+    "Tohoku": 40.00,
+    "Shikoku": 40.00,
+    "Kyushu": 40.00,
+    "Kinki": 40.00,
+    "Hokkaido": 40.00,
+    "Chugoku": 40.00,
+    "Chubu": 40.00,
+
+    "Seoul Capital Area": 40.00,
+    "Chungcheong Region": 40.00,
+    "Honam Region": 40.00,
+    "Yeongnam Region": 40.00,
+    "Gangwon Region": 40.00,
+    "Jeju Island": 40.00,
+
+    "The Andean Region": 40.00,
+    "Southern Cone": 40.00,
+    "Amazon Basin": 40.00,
+    "Eastern Lowlands": 40.00,
+    "The Guianas": 40.00,
+    "Pampas & Gran Chaco": 40.00,
+
+    "New South Wales": 40.00,
+    "Victoria": 40.00,
+    "Queensland": 40.00,
+    "South Australia": 40.00,
+    "Western Australia": 40.00,
+    "New Zealand": 40.00,
+    "Tasmania": 40.00,
+    "Northern Territory": 40.00,
+    "Australian Capital Territory": 40.00,
+    "North Island": 40.00,
+    "South Island": 40.00,
+
+    "Germany": 40.00,
+    "France": 40.00,
+    "Iberia": 40.00,
+    "Italy": 40.00,
+
+    "Gulf States": 88.00,
+    "Levant": 88.00,
+    "Egypt": 88.00,
+    "Iran": 88.00,
+    "Iraq": 88.00,
+    "Turkey": 88.00,
+    "Israel": 88.00,
+
+    "North India": 80.00,
+    "South India": 80.00,
+    "West India": 80.00,
+    "East & Northeast India": 80.00,
+    "Nepal": 80.00,
+    "Sri Lanka": 80.00,
+    "Pakistan": 80.00,
+    "Bangladesh": 80.00,
+
+    "North Africa": 80.00,
+    "West Africa": 80.00,
+    "East Africa": 80.00,
+    "Central Africa": 8.00,
+    "Southern Africa": 80.00,
+
+    "Indonesia": 70.00,
+    "Malaysia": 70.00,
+    "Philippines": 70.00,
+    "Thailand": 70.00,
+    "Vietnam": 70.00,
+    "Singapore": 70.00,
+
+    "Sweden": 40.00,
+    "Norway": 40.00,
+    "Denmark": 40.00,
+    "Finland": 40.00,
+
+    "Polynesia": 40.00,
+    "Micronesia": 40.00,
+    "Melanesia": 40.00,
+
+    "Mainland China": 40.00,
+    "Hong Kong": 40.00,
+    "Taiwan": 40.00,
+
+    "Moscow Region": 40.00,
+    "Northwest Russia": 40.00,
+    "Siberia & Far East": 40.00,
+    "Southern Russia & Caucasus": 40.00,
+
+    "Austria": 40.00,
+    "Switzerland": 40.00,
+    "Poland": 40.00,
+    "Czech Republic": 40.00,
+    "Hungary": 40.00,
+    "Slovakia": 40.00,
+    "Slovenia": 40.00,
+    "Croatia": 40.00,
+    "Ukraine": 40.00
+  }
+}
+},
+{
+  "id": "ID0000063",
+  "fullName": "Orna Grady",
+  "shortName": "O. Grady",
+  "biography": "",
+  "gender": "Female",
+  "race": "White / European Descent",
+  "ethnicity": "Irish",
+  "residence": "Ireland",
+  "pronouns": "she/her/hers",
+  "attractedTo": "Women",
+  "debut": "05/29/2007",
+  "birthdate": "12/12/1986",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Orna_Grady.png",
+  "canGetPregnant": false,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 22.00,
+    "versatility": 45.00,
+    "overallActing": 65.00,
+    "intimidation": 71.44,
+    "dramaticActing": 50.91,
+    "romanticChemistry": 48.76,
+    "comedyTiming": 34.16,
+    "athleticism": 70.00,
+    "nonVerbalActing": 74.68,
+    "improvAbility": 11.00,
+    "combatSkills": 78.00,
+    "methodActing": 14.00,
+    "voiceActing": 15.00
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 55.00,
+    "crisisManagement": 50.00,
+    "industryKnowledge": 74.00,
+    "financialOversight": 70.00
+  },
+  "metaStats": {
+    "reputation": 78.00,
+    "potential": 44.00,
+    "workEthic": 81.00
+  },
+  "behaviorSliders": {
+    "professionalism": 82.00,
+    "teamOrientation": 65.00,
+    "motivation": 43.00,
+    "riskAppetite": 67.00,
+    "maintenanceNeeds": 68.00,
+    "humility": 68.00,
+    "sociability": 54.00
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": false,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": true,
+    "Ireland": true,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "rare"
+  },
+  "popularity": {
+  "United States": 20.00,
+  "Canada": 20.00,
+  "Mexico": 0.00,
+  "United Kingdom": 52.00,
+  "Ireland": 66.00,
+  "Central Europe": 40.00,
+  "Eastern Europe": 0.00,
+  "South America": 0.00,
+  "Japan": 0.00,
+  "Middle East": 0.00,
+  "Australia": 0.00,
+  "India & South Asia": 0.00,
+  "Africa": 0.00,
+  "Southeast Asia": 0.00,
+  "South Korea": 0.00,
+  "Scandinavia": 0.00,
+  "Oceania": 0.00,
+  "China": 0.00,
+  "Russia": 0.00,
+  "regions": {
+    "New England": 20.00,
+    "Mid-Atlantic": 20.00,
+    "Great Lakes": 20.00,
+    "Midwest": 20.00,
+    "South Atlantic": 20.00,
+    "East South Central": 20.00,
+    "West South Central": 20.00,
+    "Mountain States": 20.00,
+    "Pacific (West Coast)": 20.00,
+    "Alaska": 20.00,
+    "Hawaii": 20.00,
+    "Puerto Rico": 20.00,
+
+    "The Maritimes": 20.00,
+    "Manitoba": 20.00,
+    "British Columbia": 20.00,
+    "Saskatchewan": 20.00,
+    "Quebec": 20.00,
+    "Ontario": 20.00,
+    "Alberta": 20.00,
+
+    "Northern Mexico": 0.00,
+    "South Eastern Mexico": 0.00,
+    "West Central Mexico": 0.00,
+
+    "Scotland": 52.00,
+    "Central England": 52.00,
+    "Northern England": 52.00,
+    "Southern England": 52.00,
+    "Northern Ireland": 52.00,
+
+    "Leinster": 66.00,
+    "Munster": 66.00,
+    "Connacht": 66.00,
+    "Ulster": 66.00,
+
+    "Tohoku": 0.00,
+    "Shikoku": 0.00,
+    "Kyushu": 0.00,
+    "Kinki": 0.00,
+    "Hokkaido": 0.00,
+    "Chugoku": 0.00,
+    "Chubu": 0.00,
+
+    "Seoul Capital Area": 0.00,
+    "Chungcheong Region": 0.00,
+    "Honam Region": 0.00,
+    "Yeongnam Region": 0.00,
+    "Gangwon Region": 0.00,
+    "Jeju Island": 0.00,
+
+    "The Andean Region": 0.00,
+    "Southern Cone": 0.00,
+    "Amazon Basin": 0.00,
+    "Eastern Lowlands": 0.00,
+    "The Guianas": 0.00,
+    "Pampas & Gran Chaco": 0.00,
+
+    "New South Wales": 0.00,
+    "Victoria": 0.00,
+    "Queensland": 0.00,
+    "South Australia": 0.00,
+    "Western Australia": 0.00,
+    "New Zealand": 0.00,
+    "Tasmania": 0.00,
+    "Northern Territory": 0.00,
+    "Australian Capital Territory": 0.00,
+    "North Island": 0.00,
+    "South Island": 0.00,
+
+    "Germany": 0.00,
+    "France": 0.00,
+    "Iberia": 0.00,
+    "Italy": 0.00,
+
+    "Gulf States": 0.00,
+    "Levant": 0.00,
+    "Egypt": 0.00,
+    "Iran": 0.00,
+    "Iraq": 0.00,
+    "Turkey": 0.00,
+    "Israel": 0.00,
+
+    "North India": 0.00,
+    "South India": 0.00,
+    "West India": 0.00,
+    "East & Northeast India": 0.00,
+    "Nepal": 0.00,
+    "Sri Lanka": 0.00,
+    "Pakistan": 0.00,
+    "Bangladesh": 0.00,
+
+    "North Africa": 0.00,
+    "West Africa": 0.00,
+    "East Africa": 0.00,
+    "Central Africa": 0.00,
+    "Southern Africa": 0.00,
+
+    "Indonesia": 0.00,
+    "Malaysia": 0.00,
+    "Philippines": 0.00,
+    "Thailand": 0.00,
+    "Vietnam": 0.00,
+    "Singapore": 0.00,
+
+    "Sweden": 0.00,
+    "Norway": 0.00,
+    "Denmark": 0.00,
+    "Finland": 0.00,
+
+    "Polynesia": 0.00,
+    "Micronesia": 0.00,
+    "Melanesia": 0.00,
+
+    "Mainland China": 0.00,
+    "Hong Kong": 0.00,
+    "Taiwan": 0.00,
+
+    "Moscow Region": 0.00,
+    "Northwest Russia": 0.00,
+    "Siberia & Far East": 0.00,
+    "Southern Russia & Caucasus": 0.00,
+
+    "Austria": 0.00,
+    "Switzerland": 0.00,
+    "Poland": 0.00,
+    "Czech Republic": 0.00,
+    "Hungary": 0.00,
+    "Slovakia": 0.00,
+    "Slovenia": 0.00,
+    "Croatia": 0.00,
+    "Ukraine": 0.00
+  }
+}
+},
+{
+  "id": "ID0000064",
+  "fullName": "Manny Borne",
+  "shortName": "M. Borne",
+  "biography": "",
+  "gender": "Male",
+  "race": "White / European Descent",
+  "ethnicity": "Irish",
+  "residence": "Ireland",
+  "pronouns": "he/him/his",
+  "attractedTo": "Women",
+  "debut": "10/22/1993",
+  "birthdate": "10/19/1973",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Manny_Borne.png",
+  "canGetPregnant": false,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 72.00,
+    "versatility": 10.00,
+    "overallActing": 12.12,
+    "intimidation": 7.00,
+    "dramaticActing": 9.00,
+    "romanticChemistry": 0.70,
+    "comedyTiming": 17.00,
+    "athleticism": 14.00,
+    "nonVerbalActing": 9.00,
+    "improvAbility": 11.00,
+    "combatSkills": 0.00,
+    "methodActing": 0.00,
+    "voiceActing": 22.00
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 62.72,
+    "crisisManagement": 60.11,
+    "industryKnowledge": 83.08,
+    "financialOversight": 80.88
+  },
+  "metaStats": {
+    "reputation": 66.00,
+    "potential": 34.00,
+    "workEthic": 77.00
+  },
+  "behaviorSliders": {
+    "professionalism": 78.00,
+    "teamOrientation": 81.00,
+    "motivation": 23.00,
+    "riskAppetite": 39.00,
+    "maintenanceNeeds": 69.14,
+    "humility": 66.98,
+    "sociability": 85.00
+  },
+  "languagesSpoken": {
+    "English": true,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": false,
+    "Ukrainian": false
+  },
+  "availability": {
+    "United States": false,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": true,
+    "Central Europe": false,
+    "Eastern Europe": false,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "never",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "always"
+  },
+  "popularity": {
+  "United States": 0.00,
+  "Canada": 0.00,
+  "Mexico": 0.00,
+  "United Kingdom": 27.00,
+  "Ireland": 40.00,
+  "Central Europe": 0.00,
+  "Eastern Europe": 0.00,
+  "South America": 0.00,
+  "Japan": 0.00,
+  "Middle East": 0.00,
+  "Australia": 0.00,
+  "India & South Asia": 0.00,
+  "Africa": 0.00,
+  "Southeast Asia": 0.00,
+  "South Korea": 0.00,
+  "Scandinavia": 0.00,
+  "Oceania": 0.00,
+  "China": 0.00,
+  "Russia": 0.00,
+  "regions": {
+    "New England": 0.00,
+    "Mid-Atlantic": 0.00,
+    "Great Lakes": 0.00,
+    "Midwest": 0.00,
+    "South Atlantic": 0.00,
+    "East South Central": 0.00,
+    "West South Central": 0.00,
+    "Mountain States": 0.00,
+    "Pacific (West Coast)": 0.00,
+    "Alaska": 0.00,
+    "Hawaii": 0.00,
+    "Puerto Rico": 0.00,
+
+    "The Maritimes": 0.00,
+    "Manitoba": 0.00,
+    "British Columbia": 0.00,
+    "Saskatchewan": 0.00,
+    "Quebec": 0.00,
+    "Ontario": 0.00,
+    "Alberta": 0.00,
+
+    "Northern Mexico": 0.00,
+    "South Eastern Mexico": 0.00,
+    "West Central Mexico": 0.00,
+
+    "Scotland": 27.00,
+    "Central England": 27.00,
+    "Northern England": 27.00,
+    "Southern England": 27.00,
+    "Northern Ireland": 27.00,
+
+    "Leinster": 40.00,
+    "Munster": 40.00,
+    "Connacht": 40.00,
+    "Ulster": 40.00,
+
+    "Tohoku": 0.00,
+    "Shikoku": 0.00,
+    "Kyushu": 0.00,
+    "Kinki": 0.00,
+    "Hokkaido": 0.00,
+    "Chugoku": 0.00,
+    "Chubu": 0.00,
+
+    "Seoul Capital Area": 0.00,
+    "Chungcheong Region": 0.00,
+    "Honam Region": 0.00,
+    "Yeongnam Region": 0.00,
+    "Gangwon Region": 0.00,
+    "Jeju Island": 0.00,
+
+    "The Andean Region": 0.00,
+    "Southern Cone": 0.00,
+    "Amazon Basin": 0.00,
+    "Eastern Lowlands": 0.00,
+    "The Guianas": 0.00,
+    "Pampas & Gran Chaco": 0.00,
+
+    "New South Wales": 0.00,
+    "Victoria": 0.00,
+    "Queensland": 0.00,
+    "South Australia": 0.00,
+    "Western Australia": 0.00,
+    "New Zealand": 0.00,
+    "Tasmania": 0.00,
+    "Northern Territory": 0.00,
+    "Australian Capital Territory": 0.00,
+    "North Island": 0.00,
+    "South Island": 0.00,
+
+    "Germany": 0.00,
+    "France": 0.00,
+    "Iberia": 0.00,
+    "Italy": 0.00,
+
+    "Gulf States": 0.00,
+    "Levant": 0.00,
+    "Egypt": 0.00,
+    "Iran": 0.00,
+    "Iraq": 0.00,
+    "Turkey": 0.00,
+    "Israel": 0.00,
+
+    "North India": 0.00,
+    "South India": 0.00,
+    "West India": 0.00,
+    "East & Northeast India": 0.00,
+    "Nepal": 0.00,
+    "Sri Lanka": 0.00,
+    "Pakistan": 0.00,
+    "Bangladesh": 0.00,
+
+    "North Africa": 0.00,
+    "West Africa": 0.00,
+    "East Africa": 0.00,
+    "Central Africa": 0.00,
+    "Southern Africa": 0.00,
+
+    "Indonesia": 0.00,
+    "Malaysia": 0.00,
+    "Philippines": 0.00,
+    "Thailand": 0.00,
+    "Vietnam": 0.00,
+    "Singapore": 0.00,
+
+    "Sweden": 0.00,
+    "Norway": 0.00,
+    "Denmark": 0.00,
+    "Finland": 0.00,
+
+    "Polynesia": 0.00,
+    "Micronesia": 0.00,
+    "Melanesia": 0.00,
+
+    "Mainland China": 0.00,
+    "Hong Kong": 0.00,
+    "Taiwan": 0.00,
+
+    "Moscow Region": 0.00,
+    "Northwest Russia": 0.00,
+    "Siberia & Far East": 0.00,
+    "Southern Russia & Caucasus": 0.00,
+
+    "Austria": 0.00,
+    "Switzerland": 0.00,
+    "Poland": 0.00,
+    "Czech Republic": 0.00,
+    "Hungary": 0.00,
+    "Slovakia": 0.00,
+    "Slovenia": 0.00,
+    "Croatia": 0.00,
+    "Ukraine": 0.00
+  }
+}
+},
+{
+  "id": "ID0000065",
+  "fullName": "Ingrid Novotny",
+  "shortName": "I. Novotny",
+  "biography": "",
+  "gender": "Female",
+  "race": "White / European Descent",
+  "ethnicity": "Ukrainian",
+  "residence": "Czech Republic",
+  "pronouns": "she/her/hers",
+  "attractedTo": "Men & Women",
+  "debut": "05/11/2023",
+  "birthdate": "05/16/2006",
+  "status": "Active",
+  "loyalty": "None",
+  "relationship": "None",
+  "portraitFile": "/pics/talent/PIC_Ingrid_Novotny.png",
+  "canGetPregnant": true,
+  "briantologist": false,
+  "actingStats": {
+    "charisma": 10.00,
+    "versatility": 56.00,
+    "overallActing": 11.13,
+    "intimidation": 57.00,
+    "dramaticActing": 15.00,
+    "romanticChemistry": 14.99,
+    "comedyTiming": 7.98,
+    "athleticism": 62.39,
+    "nonVerbalActing": 59.00,
+    "improvAbility": 8.49,
+    "combatSkills": 11.00,
+    "methodActing": 5.00,
+    "voiceActing": 7.22
+  },
+  "directingSkills": {
+    "vision": 0.00,
+    "storytelling": 0.00,
+    "actorDirection": 0.00,
+    "technicalKnowledge": 0.00,
+    "problemSolving": 0.00,
+    "leadership": 0.00
+  },
+  "writingSkills": {
+    "plotConstruction": 0.00,
+    "dialogueWriting": 0.00,
+    "characterDevelopment": 0.00,
+    "pacing": 0.00,
+    "genreMastery": {
+      "horror": 0.00,
+      "action": 0.00,
+      "comedy": 0.00,
+      "drama": 0.00,
+      "romance": 0.00,
+      "war": 0.00,
+      "historical": 0.00,
+      "fantasy": 0.00,
+      "sciFi": 0.00
+    }
+  },
+  "cinematographySkills": {
+    "composition": 0.00,
+    "lighting": 0.00,
+    "cameraSkill": 0.00,
+    "adaptability": 0.00,
+    "collaboration": 0.00
+  },
+  "hairMakeupSkills": {
+    "hairStyling": 0.00,
+    "makeupApplication": 0.00,
+    "fxMakeup": 0.00,
+    "continuityAwareness": 0.00,
+    "speedEfficiency": 0.00,
+    "cleanliness": 0.00
+  },
+  "producingSkills": {
+    "projectManagement": 0.00,
+    "crisisManagement": 0.00,
+    "industryKnowledge": 0.00,
+    "financialOversight": 0.00
+  },
+  "metaStats": {
+    "reputation": 80.00,
+    "potential": 77.00,
+    "workEthic": 92.00
+  },
+  "behaviorSliders": {
+    "professionalism": 87.00,
+    "teamOrientation": 80.00,
+    "motivation": 40.41,
+    "riskAppetite": 67.00,
+    "maintenanceNeeds": 69.00,
+    "humility": 83.00,
+    "sociability": 23.00
+  },
+  "languagesSpoken": {
+    "English": false,
+    "Spanish": false,
+    "German": false,
+    "French": false,
+    "Italian": false,
+    "Dutch": false,
+    "Portuguese": false,
+    "Hindi": false,
+    "Japanese": false,
+    "Korean": false,
+    "Thai": false,
+    "Southeast Asian Languages": false,
+    "Polish": false,
+    "Czech / Slovak": false,
+    "Hungarian": false,
+    "Romanian": false,
+    "Balkan Languages": false,
+    "Arabic": false,
+    "Turkish": false,
+    "Persian (Farsi)": false,
+    "Hebrew": false,
+    "Eastern European Languages": false,
+    "Swahili": false,
+    "Hausa": false,
+    "Yoruba": false,
+    "Zulu": false,
+    "Somali": false,
+    "Mandarin": false,
+    "Russian": true,
+    "Ukrainian": true
+  },
+  "availability": {
+    "United States": false,
+    "Canada": false,
+    "Mexico": false,
+    "United Kingdom": false,
+    "Ireland": false,
+    "Central Europe": false,
+    "Eastern Europe": true,
+    "South America": false,
+    "Japan": false,
+    "Middle East": false,
+    "Australia": false,
+    "India & South Asia": false,
+    "Africa": false,
+    "Southeast Asia": false,
+    "South Korea": false,
+    "Scandinavia": false,
+    "Oceania": false,
+    "China": false,
+    "Russia": false
+  },
+    "preferredRoles": {
+    "actor": "always",
+    "director": "never",
+    "writer": "never",
+    "cinematographer": "never",
+    "hairMakeup": "never",
+    "producer": "never"
+  },
+  "popularity": {
+  "United States": 0.00,
+  "Canada": 0.00,
+  "Mexico": 0.00,
+  "United Kingdom": 0.00,
+  "Ireland": 0.00,
+  "Central Europe": 0.00,
+  "Eastern Europe": 10.00,
+  "South America": 0.00,
+  "Japan": 0.00,
+  "Middle East": 0.00,
+  "Australia": 0.00,
+  "India & South Asia": 0.00,
+  "Africa": 0.00,
+  "Southeast Asia": 0.00,
+  "South Korea": 0.00,
+  "Scandinavia": 0.00,
+  "Oceania": 0.00,
+  "China": 0.00,
+  "Russia": 2.00,
+  "regions": {
+    "New England": 0.00,
+    "Mid-Atlantic": 0.00,
+    "Great Lakes": 0.00,
+    "Midwest": 0.00,
+    "South Atlantic": 0.00,
+    "East South Central": 0.00,
+    "West South Central": 0.00,
+    "Mountain States": 0.00,
+    "Pacific (West Coast)": 0.00,
+    "Alaska": 0.00,
+    "Hawaii": 0.00,
+    "Puerto Rico": 0.00,
+
+    "The Maritimes": 0.00,
+    "Manitoba": 0.00,
+    "British Columbia": 0.00,
+    "Saskatchewan": 0.00,
+    "Quebec": 0.00,
+    "Ontario": 0.00,
+    "Alberta": 0.00,
+
+    "Northern Mexico": 0.00,
+    "South Eastern Mexico": 0.00,
+    "West Central Mexico": 0.00,
+
+    "Scotland": 0.00,
+    "Central England": 0.00,
+    "Northern England": 0.00,
+    "Southern England": 0.00,
+    "Northern Ireland": 0.00,
+
+    "Leinster": 0.00,
+    "Munster": 0.00,
+    "Connacht": 0.00,
+    "Ulster": 0.00,
+
+    "Tohoku": 0.00,
+    "Shikoku": 0.00,
+    "Kyushu": 0.00,
+    "Kinki": 0.00,
+    "Hokkaido": 0.00,
+    "Chugoku": 0.00,
+    "Chubu": 0.00,
+
+    "Seoul Capital Area": 0.00,
+    "Chungcheong Region": 0.00,
+    "Honam Region": 0.00,
+    "Yeongnam Region": 0.00,
+    "Gangwon Region": 0.00,
+    "Jeju Island": 0.00,
+
+    "The Andean Region": 0.00,
+    "Southern Cone": 0.00,
+    "Amazon Basin": 0.00,
+    "Eastern Lowlands": 0.00,
+    "The Guianas": 0.00,
+    "Pampas & Gran Chaco": 0.00,
+
+    "New South Wales": 0.00,
+    "Victoria": 0.00,
+    "Queensland": 0.00,
+    "South Australia": 0.00,
+    "Western Australia": 0.00,
+    "New Zealand": 0.00,
+    "Tasmania": 0.00,
+    "Northern Territory": 0.00,
+    "Australian Capital Territory": 0.00,
+    "North Island": 0.00,
+    "South Island": 0.00,
+
+    "Germany": 0.00,
+    "France": 0.00,
+    "Iberia": 0.00,
+    "Italy": 0.00,
+
+    "Gulf States": 0.00,
+    "Levant": 0.00,
+    "Egypt": 0.00,
+    "Iran": 0.00,
+    "Iraq": 0.00,
+    "Turkey": 0.00,
+    "Israel": 0.00,
+
+    "North India": 0.00,
+    "South India": 0.00,
+    "West India": 0.00,
+    "East & Northeast India": 0.00,
+    "Nepal": 0.00,
+    "Sri Lanka": 0.00,
+    "Pakistan": 0.00,
+    "Bangladesh": 0.00,
+
+    "North Africa": 0.00,
+    "West Africa": 0.00,
+    "East Africa": 0.00,
+    "Central Africa": 0.00,
+    "Southern Africa": 0.00,
+
+    "Indonesia": 0.00,
+    "Malaysia": 0.00,
+    "Philippines": 0.00,
+    "Thailand": 0.00,
+    "Vietnam": 0.00,
+    "Singapore": 0.00,
+
+    "Sweden": 0.00,
+    "Norway": 0.00,
+    "Denmark": 0.00,
+    "Finland": 0.00,
+
+    "Polynesia": 0.00,
+    "Micronesia": 0.00,
+    "Melanesia": 0.00,
+
+    "Mainland China": 0.00,
+    "Hong Kong": 0.00,
+    "Taiwan": 0.00,
+
+    "Moscow Region": 2.00,
+    "Northwest Russia": 2.00,
+    "Siberia & Far East": 2.00,
+    "Southern Russia & Caucasus": 2.00,
+
+    "Austria": 10.00,
+    "Switzerland": 10.00,
+    "Poland": 10.00,
+    "Czech Republic": 10.00,
+    "Hungary": 10.00,
+    "Slovakia": 10.00,
+    "Slovenia": 10.00,
+    "Croatia": 10.00,
+    "Ukraine": 10.00
   }
 }
 }

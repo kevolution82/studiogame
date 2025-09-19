@@ -92,5 +92,14 @@
 
   { "id": 74, "from": "ID0000037", "to": "ID0000038", "type": "best friend" },
 
-  { "id": 75, "from": "ID0000048", "to": "ID0000049", "type": "strong friend" }
+  { "id": 75, "from": "ID0000048", "to": "ID0000049", "type": "strong friend" },
+
+  { "id": 76, "from": "ID0000055", "to": "ID0000056", "type": "half_sibling" },
+
+  { "id": 77, "from": "ID0000048", "to": "ID0000055", "type": "hatred" },
+  { "id": 78, "from": "ID0000049", "to": "ID0000055", "type": "hatred" },
+
+  { "id": 79, "from": "ID0000053", "to": "ID0000057", "type": "friend" },
+  { "id": 80, "from": "ID0000057", "to": "ID0000050", "type": "strong friend" },
+  { "id": 81, "from": "ID0000027", "to": "ID0000057", "type": "friend" }
 ]
