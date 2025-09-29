@@ -1,0 +1,40 @@
+[{
+  "id": "",
+  "title": "",
+  "shortTitle": "",
+  "plotOutline": "",
+  "genres": [],
+  "languages": [],
+  "regionOfOrigin": "",
+  "filmingLocations": [],
+  "posterFile": "",
+  "thumbnailFile": "",
+  "releaseDate": "",
+
+  "credits": {
+    "directors": [],
+    "cast": [
+      {
+        "name": "",
+        "character": ""
+      }
+    ],
+    "producers": [],
+    "writers": [],
+    "composers": [],
+    "hairAndMakeUp": []
+  },
+
+  "ownership": {
+    "studio": "",
+    "owner": ""
+  },
+
+  "filmStats": {
+    "boxOffice": 0,
+    "budget": 0,
+    "criticScore": 0,
+    "criticalReview": ""
+  }
+}
+]
