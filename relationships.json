@@ -33,31 +33,31 @@
   { "id": 27, "from": "ID0000002", "to": "ID0000009", "type": "friend" },
 
   { "id": 28, "from": "ID0000011", "to": "ID0000012", "type": "half_sibling" },
-  { "id": 29, "from": "ID0000011", "to": "ID0000013", "type": "half_sibling" },
-  { "id": 30, "from": "ID0000011", "to": "ID0000014", "type": "half_sibling" },
+  { "id": 29, "from": "ID0000011", "to": "ID0000013", "type": "sibling" },
+  { "id": 30, "from": "ID0000011", "to": "ID0000014", "type": "sibling" },
   { "id": 31, "from": "ID0000011", "to": "ID0000017", "type": "half_sibling" },
-  { "id": 32, "from": "ID0000011", "to": "ID0000018", "type": "half_sibling" },
+  { "id": 32, "from": "ID0000011", "to": "ID0000018", "type": "sibling" },
   { "id": 33, "from": "ID0000011", "to": "ID0000019", "type": "half_sibling" },
   { "id": 34, "from": "ID0000011", "to": "ID0000020", "type": "half_sibling" },
   { "id": 35, "from": "ID0000011", "to": "ID0000021", "type": "half_sibling" },
 
   { "id": 36, "from": "ID0000012", "to": "ID0000013", "type": "half_sibling" },
   { "id": 37, "from": "ID0000012", "to": "ID0000014", "type": "half_sibling" },
-  { "id": 38, "from": "ID0000012", "to": "ID0000017", "type": "half_sibling" },
+  { "id": 38, "from": "ID0000012", "to": "ID0000017", "type": "sibling" },
   { "id": 39, "from": "ID0000012", "to": "ID0000018", "type": "half_sibling" },
   { "id": 40, "from": "ID0000012", "to": "ID0000019", "type": "half_sibling" },
   { "id": 41, "from": "ID0000012", "to": "ID0000020", "type": "half_sibling" },
   { "id": 42, "from": "ID0000012", "to": "ID0000021", "type": "half_sibling" },
 
-  { "id": 43, "from": "ID0000013", "to": "ID0000014", "type": "half_sibling" },
+  { "id": 43, "from": "ID0000013", "to": "ID0000014", "type": "sibling" },
   { "id": 44, "from": "ID0000013", "to": "ID0000017", "type": "half_sibling" },
-  { "id": 45, "from": "ID0000013", "to": "ID0000018", "type": "half_sibling" },
+  { "id": 45, "from": "ID0000013", "to": "ID0000018", "type": "sibling" },
   { "id": 46, "from": "ID0000013", "to": "ID0000019", "type": "half_sibling" },
   { "id": 47, "from": "ID0000013", "to": "ID0000020", "type": "half_sibling" },
   { "id": 48, "from": "ID0000013", "to": "ID0000021", "type": "half_sibling" },
 
   { "id": 49, "from": "ID0000014", "to": "ID0000017", "type": "half_sibling" },
-  { "id": 50, "from": "ID0000014", "to": "ID0000018", "type": "half_sibling" },
+  { "id": 50, "from": "ID0000014", "to": "ID0000018", "type": "sibling" },
   { "id": 51, "from": "ID0000014", "to": "ID0000019", "type": "half_sibling" },
   { "id": 52, "from": "ID0000014", "to": "ID0000020", "type": "half_sibling" },
   { "id": 53, "from": "ID0000014", "to": "ID0000021", "type": "half_sibling" },
@@ -71,10 +71,10 @@
   { "id": 59, "from": "ID0000018", "to": "ID0000020", "type": "half_sibling" },
   { "id": 60, "from": "ID0000018", "to": "ID0000021", "type": "half_sibling" },
 
-  { "id": 61, "from": "ID0000019", "to": "ID0000020", "type": "half_sibling" },
-  { "id": 62, "from": "ID0000019", "to": "ID0000021", "type": "half_sibling" },
+  { "id": 61, "from": "ID0000019", "to": "ID0000020", "type": "sibling" },
+  { "id": 62, "from": "ID0000019", "to": "ID0000021", "type": "sibling" },
 
-  { "id": 63, "from": "ID0000020", "to": "ID0000021", "type": "half_sibling" },
+  { "id": 63, "from": "ID0000020", "to": "ID0000021", "type": "sibling" },
 
   { "id": 64, "from": "ID0000023", "to": "ID0000003", "type": "friend" },
 
@@ -101,5 +101,11 @@
 
   { "id": 79, "from": "ID0000053", "to": "ID0000057", "type": "friend" },
   { "id": 80, "from": "ID0000057", "to": "ID0000050", "type": "strong friend" },
-  { "id": 81, "from": "ID0000027", "to": "ID0000057", "type": "friend" }
+  { "id": 81, "from": "ID0000027", "to": "ID0000057", "type": "friend" },
+
+  { "id": 82, "from": "ID0000084", "to": "ID0000085", "type": "sibling" },
+  { "id": 83, "from": "ID0000084", "to": "ID0000086", "type": "sibling" },
+  { "id": 84, "from": "ID0000085", "to": "ID0000086", "type": "sibling" },
+
+  { "id": 85, "from": "ID0000109", "to": "ID0000110", "type": "strong friend" }
 ]
